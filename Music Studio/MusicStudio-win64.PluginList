@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <grid version="3">
+    <saveoptions create="True" position="True" content="True"/>
+    <design columncount="7" rowcount="1" fixedcols="0" fixedrows="1" defaultcolwidth="64" isdefaultcolwidth="0" defaultrowheight="22" isdefaultrowheight="1" color="clWindow">
+      <columns columnsenabled="True" columncount="7">
+        <column0>
+          <index value="0"/>
+          <width value="120"/>
+          <buttonstyle value="0"/>
+          <font>
+            <name value="default"/>
+            <size value="0"/>
+            <color value="clDefault"/>
+            <style value="1"/>
+          </font>
+          <title>
+            <caption value=" Name"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="1"/>
+            </font>
+          </title>
+        </column0>
+        <column1>
+          <index value="1"/>
+          <width value="80"/>
+          <buttonstyle value="0"/>
+          <title>
+            <caption value="Vendor"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="0"/>
+            </font>
+          </title>
+        </column1>
+        <column2>
+          <index value="2"/>
+          <width value="80"/>
+          <buttonstyle value="0"/>
+          <title>
+            <caption value="Product"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="0"/>
+            </font>
+          </title>
+        </column2>
+        <column3>
+          <index value="3"/>
+          <width value="80"/>
+          <buttonstyle value="0"/>
+          <title>
+            <caption value="Version"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="0"/>
+            </font>
+          </title>
+        </column3>
+        <column4>
+          <index value="4"/>
+          <width value="80"/>
+          <buttonstyle value="0"/>
+          <title>
+            <caption value="Category"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="0"/>
+            </font>
+          </title>
+        </column4>
+        <column5>
+          <index value="5"/>
+          <width value="120"/>
+          <buttonstyle value="0"/>
+          <title>
+            <caption value="Effects"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="0"/>
+            </font>
+          </title>
+        </column5>
+        <column6>
+          <index value="6"/>
+          <width value="200"/>
+          <buttonstyle value="0"/>
+          <title>
+            <caption value="Path"/>
+            <font>
+              <name value="default"/>
+              <size value="0"/>
+              <color value="clDefault"/>
+              <style value="0"/>
+            </font>
+          </title>
+        </column6>
+      </columns>
+      <options>
+        <goFixedVertLine value="True"/>
+        <goFixedHorzLine value="True"/>
+        <goVertLine value="True"/>
+        <goHorzLine value="False"/>
+        <goRangeSelect value="True"/>
+        <goDrawFocusSelected value="False"/>
+        <goRowSizing value="False"/>
+        <goColSizing value="True"/>
+        <goRowMoving value="False"/>
+        <goColMoving value="False"/>
+        <goEditing value="False"/>
+        <goAutoAddRows value="False"/>
+        <goTabs value="False"/>
+        <goRowSelect value="True"/>
+        <goAlwaysShowEditor value="False"/>
+        <goThumbTracking value="False"/>
+        <goColSpanning value="False"/>
+        <goRelaxedRowSelect value="False"/>
+        <goDblClickAutoSize value="True"/>
+        <goSmoothScroll value="True"/>
+        <goAutoAddRowsSkipContentCheck value="False"/>
+        <goRowHighlight value="False"/>
+        <goScrollToLastCol value="False"/>
+        <goScrollToLastRow value="False"/>
+      </options>
+    </design>
+    <position topleftcol="0" topleftrow="1" col="0" row="0">
+      <selection left="0" top="0" right="6" bottom="0"/>
+    </position>
+  </grid>
+</CONFIG>

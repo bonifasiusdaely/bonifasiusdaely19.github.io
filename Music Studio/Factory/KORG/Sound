@@ -1,0 +1,2244 @@
+121 0 0 AcousticPiano GM  |GM/XG/Piano
+121 1 0 Ac. Piano Wide  |GM/XG/Piano
+121 2 0 Ac. Piano Dark  |GM/XG/Piano
+121 0 1 Bright Piano GM  |GM/XG/Piano
+121 1 1 Bright PianoWide  |GM/XG/Piano
+121 0 2 E.Grand Piano GM  |GM/XG/Piano
+121 1 2 E. Grand Wide  |GM/XG/Piano
+121 0 3 Honky-Tonk GM  |GM/XG/Piano
+121 1 3 Honky Wide  |GM/XG/Piano
+121 0 4 E. Piano 1 GM  |GM/XG/Piano
+121 1 4 Detuned EP 1  |GM/XG/Piano
+121 2 4 EP 1 Veloc. Mix  |GM/XG/Piano
+121 3 4 60’s E. Piano  |GM/XG/Piano
+121 0 5 E. Piano 2 GM  |GM/XG/Piano
+121 1 5 Detuned EP 2  |GM/XG/Piano
+121 2 5 EP 2 Veloc. Mix  |GM/XG/Piano
+121 3 5 EP Legend  |GM/XG/Piano
+121 4 5 EP Phase  |GM/XG/Piano
+121 0 6 Harpsichord GM  |GM/XG/Piano
+121 1 6 Harpsi OctaveMix  |GM/XG/Piano
+121 2 6 Harpsi Wide  |GM/XG/Piano
+121 3 6 Harpsi Key Off  |GM/XG/Piano
+121 0 7 Clav GM  |GM/XG/Piano
+121 1 7 Pulse Clav  |GM/XG/Piano
+0 0 0 AcousticPiano XG  |GM/XG/Piano
+0 1 0 AcousticPiano KP  |GM/XG/Piano
+0 18 0 Mellow Gr. Piano  |GM/XG/Piano
+0 40 0 Piano Strings  |GM/XG/Piano
+0 41 0 Piano Dream  |GM/XG/Piano
+0 0 1 Bright Piano XG  |GM/XG/Piano
+0 1 1 Bright Piano KP  |GM/XG/Piano
+0 0 2 E.Grand Piano XG  |GM/XG/Piano
+0 1 2 E.Grand Piano KP  |GM/XG/Piano
+0 32 2 E. Grand Detuned  |GM/XG/Piano
+0 40 2 Layered E.Grand1  |GM/XG/Piano
+0 41 2 Layered E.Grand2  |GM/XG/Piano
+0 0 3 Honky-Tonk XG  |GM/XG/Piano
+0 1 3 Honky-Tonk KP  |GM/XG/Piano
+0 0 4 E. Piano 1 XG  |GM/XG/Piano
+0 1 4 E. Piano 1 KP  |GM/XG/Piano
+0 18 4 Mellow EP1  |GM/XG/Piano
+0 32 4 Chorus EP 1  |GM/XG/Piano
+0 40 4 Hard El. Piano  |GM/XG/Piano
+0 45 4 Vel. X-Fade EP 1  |GM/XG/Piano
+0 64 4 60’s El. Piano 1  |GM/XG/Piano
+0 0 5 E. Piano 2 XG  |GM/XG/Piano
+0 1 5 E. Piano 2 KP  |GM/XG/Piano
+0 32 5 Chorus EP 2  |GM/XG/Piano
+0 33 5 FM EP Hard  |GM/XG/Piano
+0 34 5 FM Legend EP  |GM/XG/Piano
+0 40 5 FM Phase EP  |GM/XG/Piano
+0 41 5 Dx & Analog  |GM/XG/Piano
+0 42 5 FM Koto EP  |GM/XG/Piano
+0 45 5 Vel. X-Fade EP 2  |GM/XG/Piano
+0 0 6 Harpsichord XG  |GM/XG/Piano
+0 1 6 Harpsichord KP  |GM/XG/Piano
+0 25 6 Harpsichord HP  |GM/XG/Piano
+0 35 6 Harpsi Octave  |GM/XG/Piano
+0 0 7 Clav XG  |GM/XG/Piano
+0 1 7 Clav KP  |GM/XG/Piano
+0 27 7 Clav. Wah Dyn.  |GM/XG/Piano
+0 64 7 Pulse Clav X  |GM/XG/Piano
+0 65 7 Pierce Clav  |GM/XG/Piano
+121 0 8 Celesta GM  |GM/XG/Mallet & Bells
+121 0 9 Glockenspiel GM  |GM/XG/Mallet & Bells
+121 0 10 Music Box GM  |GM/XG/Mallet & Bells
+121 0 11 Vibraphone GM  |GM/XG/Mallet & Bells
+121 1 11 Vibraphone Wide  |GM/XG/Mallet & Bells
+121 0 12 Marimba GM  |GM/XG/Mallet & Bells
+121 1 12 Marimba Wide  |GM/XG/Mallet & Bells
+121 0 13 Xylophone GM  |GM/XG/Mallet & Bells
+121 0 14 Tubular Bell GM  |GM/XG/Mallet & Bells
+121 1 14 Church Bell  |GM/XG/Mallet & Bells
+121 2 14 Carillon  |GM/XG/Mallet & Bells
+121 0 15 Dulcimer GM  |GM/XG/Mallet & Bells
+0 0 8 Celesta XG  |GM/XG/Mallet & Bells
+0 0 9 Glockenspiel XG  |GM/XG/Mallet & Bells
+0 0 10 Music Box XG  |GM/XG/Mallet & Bells
+0 64 10 Orgel Bell  |GM/XG/Mallet & Bells
+0 0 11 Vibraphone XG  |GM/XG/Mallet & Bells
+0 1 11 Vibraphone KP  |GM/XG/Mallet & Bells
+0 45 11 Hard Vibraphone  |GM/XG/Mallet & Bells
+0 0 12 Marimba XG  |GM/XG/Mallet & Bells
+0 1 12 Marimba KP  |GM/XG/Mallet & Bells
+0 64 12 Sin Marimba  |GM/XG/Mallet & Bells
+0 97 12 Balimba  |GM/XG/Mallet & Bells
+0 98 12 Log Drum  |GM/XG/Mallet & Bells
+0 0 13 Xylophone XG  |GM/XG/Mallet & Bells
+0 0 14 Tubular Bell XG  |GM/XG/Mallet & Bells
+0 96 14 Church Bells  |GM/XG/Mallet & Bells
+0 97 14 Carillonx  |GM/XG/Mallet & Bells
+0 0 15 Dulcimer XG  |GM/XG/Mallet & Bells
+0 35 15 Dulcimer Octave  |GM/XG/Mallet & Bells
+0 96 15 Cimbalom  |GM/XG/Mallet & Bells
+0 97 15 Santur 2  |GM/XG/Mallet & Bells
+121 0 16 Drawbar Org GM  |GM/XG/Orgel
+121 1 16 Det. Drawbar Org  |GM/XG/Orgel
+121 2 16 It. 60’s Organ  |GM/XG/Orgel
+121 3 16 Drawbar Org. 2  |GM/XG/Orgel
+121 0 17 Perc.Organ GM  |GM/XG/Orgel
+121 1 17 Det. Perc. Organ  |GM/XG/Orgel
+121 2 17 Perc. Organ 2  |GM/XG/Orgel
+121 0 18 Rock Organ GM  |GM/XG/Orgel
+121 0 19 Church Organ GM  |GM/XG/Orgel
+121 1 19 Church Oct. Mix  |GM/XG/Orgel
+121 2 19 Detuned Church  |GM/XG/Orgel
+121 0 20 Reed Organ GM  |GM/XG/Orgel
+121 1 20 Puff Organ  |GM/XG/Orgel
+121 0 21 Accordion GM  |GM/XG/Orgel
+121 1 21 Accordion 2  |GM/XG/Orgel
+121 0 22 Harmonica GM  |GM/XG/Orgel
+121 0 23 Tango Accord.GM  |GM/XG/Orgel
+0 0 16 Drawbar Org XG  |GM/XG/Orgel
+0 32 16 Detuned Drawbar  |GM/XG/Orgel
+0 33 16 60’s Draw.Org. 1  |GM/XG/Orgel
+0 34 16 60’s Organ  |GM/XG/Orgel
+0 35 16 70’s DB Org. 1  |GM/XG/Orgel
+0 36 16 Drawbar Org. 3  |GM/XG/Orgel
+0 37 16 Drawbar 5th  |GM/XG/Orgel
+0 38 16 Even Bar Org.  |GM/XG/Orgel
+0 40 16 Organ 16+2’2/3  |GM/XG/Orgel
+0 64 16 Organ Bass  |GM/XG/Orgel
+0 65 16 70’s DB Org. 2  |GM/XG/Orgel
+0 66 16 Cheezy Organ  |GM/XG/Orgel
+0 67 16 Drawbar Org Perc  |GM/XG/Orgel
+0 0 17 Perc.Organ XG  |GM/XG/Orgel
+0 24 17 70’s Perc. Organ  |GM/XG/Orgel
+0 32 17 ChorusPerc.Organ  |GM/XG/Orgel
+0 33 17 Lite Organ  |GM/XG/Orgel
+0 37 17 Percussive Organ  |GM/XG/Orgel
+0 0 18 Rock Organ XG  |GM/XG/Orgel
+0 64 18 Rotary Organ V.  |GM/XG/Orgel
+0 65 18 Slow Rotary  |GM/XG/Orgel
+0 66 18 Fast Rotary  |GM/XG/Orgel
+0 0 19 Church Organ XG  |GM/XG/Orgel
+0 32 19 Church Organ 3  |GM/XG/Orgel
+0 35 19 Church Organ 2  |GM/XG/Orgel
+0 40 19 Notre Dame  |GM/XG/Orgel
+0 64 19 Organ Flute  |GM/XG/Orgel
+0 65 19 Trem. Org. Flute  |GM/XG/Orgel
+0 0 20 Reed Organ XG_n#  |GM/XG/Orgel
+0 40 20 Puff Organx  |GM/XG/Orgel
+0 0 21 Accordion XG  |GM/XG/Orgel
+0 32 21 Accord. It.  |GM/XG/Orgel
+0 0 22 Harmonica XG  |GM/XG/Orgel
+0 32 22 Soft Harmonica  |GM/XG/Orgel
+0 0 23 Tango Accord.XG  |GM/XG/Orgel
+0 64 23 TangoAccordion 2  |GM/XG/Orgel
+121 0 24 Nylon Guitar GM  |GM/XG/Gitarre
+121 1 24 Ukulele  |GM/XG/Gitarre
+121 2 24 Nylon Key Off  |GM/XG/Gitarre
+121 3 24 Nylon Guitar 2  |GM/XG/Gitarre
+121 0 25 Steel Guitar GM  |GM/XG/Gitarre
+121 1 25 12 Strings Gtr  |GM/XG/Gitarre
+121 2 25 Mandolin  |GM/XG/Gitarre
+121 3 25 Steel Gtr & Body  |GM/XG/Gitarre
+121 0 26 Jazz Guitar GM  |GM/XG/Gitarre
+121 1 26 Pedal Steel Gtr  |GM/XG/Gitarre
+121 0 27 Clean Guitar GM  |GM/XG/Gitarre
+121 1 27 Det.Clean El.Gtr  |GM/XG/Gitarre
+121 2 27 Mid Tone Gtr  |GM/XG/Gitarre
+121 0 28 Muted Guitar GM  |GM/XG/Gitarre
+121 1 28 Funky Cut El.Gtr  |GM/XG/Gitarre
+121 2 28 Mute Vel. El.Gtr  |GM/XG/Gitarre
+121 3 28 Jazz Man  |GM/XG/Gitarre
+121 0 29 Overdrive Gtr GM  |GM/XG/Gitarre
+121 1 29 Guitar Pinch  |GM/XG/Gitarre
+121 0 30 DistortionGtr GM  |GM/XG/Gitarre
+121 1 30 Feedback DistGtr  |GM/XG/Gitarre
+121 2 30 Dist. Rhythm Gtr  |GM/XG/Gitarre
+121 0 31 Gtr Harmonic GM  |GM/XG/Gitarre
+121 1 31 Guitar Feedback  |GM/XG/Gitarre
+0 0 24 Nylon Guitar XG  |GM/XG/Gitarre
+0 16 24 Nylon Guitar 2rn  |GM/XG/Gitarre
+0 25 24 Nylon Guitar 3  |GM/XG/Gitarre
+0 43 24 Nylon & Harm. V.  |GM/XG/Gitarre
+121 1 24 Ukulele  |GM/XG/Gitarre
+121 2 24 Nylon Key Off  |GM/XG/Gitarre
+121 3 24 Nylon Guitar 2  |GM/XG/Gitarre
+121 0 25 Steel Guitar GM  |GM/XG/Gitarre
+121 1 25 12 Strings Gtr  |GM/XG/Gitarre
+121 2 25 Mandolin  |GM/XG/Gitarre
+121 3 25 Steel Gtr & Body  |GM/XG/Gitarre
+121 0 26 Jazz Guitar GM  |GM/XG/Gitarre
+121 1 26 Pedal Steel Gtr  |GM/XG/Gitarre
+121 0 27 Clean Guitar GM  |GM/XG/Gitarre
+121 1 27 Det.Clean El.Gtr  |GM/XG/Gitarre
+121 2 27 Mid Tone Gtr  |GM/XG/Gitarre
+121 0 28 Muted Guitar GM  |GM/XG/Gitarre
+121 1 28 Funky Cut El.Gtr  |GM/XG/Gitarre
+121 2 28 Mute Vel. El.Gtr  |GM/XG/Gitarre
+0 43 28 Funk Guitar 2  |GM/XG/Gitarre
+0 45 28 Jazz Boy  |GM/XG/Gitarre
+0 0 29 Overdrive Gtr XG  |GM/XG/Gitarre
+0 43 29 Guitar Nip  |GM/XG/Gitarre
+0 0 30 DistortionGtr XG  |GM/XG/Gitarre
+0 40 30 Feedback DistGt1  |GM/XG/Gitarre
+0 41 30 Feedback DistGt2  |GM/XG/Gitarre
+0 0 31 Gtr Harmonic XG  |GM/XG/Gitarre
+0 65 31 Gtr Feedback  |GM/XG/Gitarre
+0 66 31 Gtr Harmonic  |GM/XG/Gitarre
+121 0 32 Acoustic Bass GM  |GM/XG/Bass
+121 0 33 Finger Bass GM  |GM/XG/Bass
+121 1 33 Finger Slap Bass  |GM/XG/Bass
+121 0 34 Picked E.Bass GM  |GM/XG/Bass
+121 0 35 Fretless Bass GM  |GM/XG/Bass
+121 0 36 Slap Bass 1 GM  |GM/XG/Bass
+121 0 37 Slap Bass 2 GM  |GM/XG/Bass
+121 0 38 Synth Bass 1 GM  |GM/XG/Bass
+121 1 38 Synth Bass Warm  |GM/XG/Bass
+121 2 38 Synth Bass Reso  |GM/XG/Bass
+121 3 38 Clavi Bass  |GM/XG/Bass
+121 4 38 Hammer  |GM/XG/Bass
+121 0 39 Synth Bass 2 GM  |GM/XG/Bass
+121 1 39 SynthBass Attack  |GM/XG/Bass
+121 2 39 SynthBass Rubber  |GM/XG/Bass
+121 3 39 Attack Pulse  |GM/XG/Bass
+0 0 32 Acoustic Bass XG  |GM/XG/Bass
+0 40 32 Jazz Rhythm  |GM/XG/Bass
+0 45 32 Ac. Bass V.  |GM/XG/Bass
+0 0 33 Finger Bass XG  |GM/XG/Bass
+0 18 33 Finger Dark  |GM/XG/Bass
+0 27 33 Flange Bass  |GM/XG/Bass
+0 40 33 FngBass&DstGuit.  |GM/XG/Bass
+0 43 33 FingerSlapBass V  |GM/XG/Bass
+0 45 33 Finger Bass rn  |GM/XG/Bass
+0 65 33 Modulated Bass  |GM/XG/Bass
+0 0 34 Picked E.Bass XG  |GM/XG/Bass
+0 28 34 Muted Pick Bass  |GM/XG/Bass
+0 0 35 Fretless Bass XG  |GM/XG/Bass
+0 32 35 Fretless Bass B  |GM/XG/Bass
+0 33 35 Fretless Det.  |GM/XG/Bass
+0 34 35 Fretless Soft  |GM/XG/Bass
+0 96 35 Synth Fretless  |GM/XG/Bass
+0 97 35 Smooth Fretless  |GM/XG/Bass
+0 0 36 Slap Bass 1 XG  |GM/XG/Bass
+0 27 36 Resonant Slap  |GM/XG/Bass
+0 32 36 Punch Thumb Bass  |GM/XG/Bass
+0 0 37 Slap Bass 2 XG  |GM/XG/Bass
+0 43 37 Velo. Sw. Slap  |GM/XG/Bass
+0 0 38 Synth Bass 1 XG  |GM/XG/Bass
+0 18 38 Syn. Bass Dark  |GM/XG/Bass
+0 20 38 Fast Reso. Bass  |GM/XG/Bass
+0 24 38 Acid Bass  |GM/XG/Bass
+0 35 38 Clav. Bass  |GM/XG/Bass
+0 40 38 Techno Bass  |GM/XG/Bass
+0 64 38 Orbiter Bass  |GM/XG/Bass
+0 65 38 Xquare Bass  |GM/XG/Bass
+0 66 38 Rubber Bass  |GM/XG/Bass
+0 96 38 Hammer Bass  |GM/XG/Bass
+0 0 39 Synth Bass 2 XG  |GM/XG/Bass
+0 6 39 Mellow Syn Bass  |GM/XG/Bass
+0 12 39 Sequenced Bass  |GM/XG/Bass
+0 18 39 Click Synth Bass  |GM/XG/Bass
+0 19 39 Synth Bass Dark  |GM/XG/Bass
+0 32 39 Smooth Syn. Bass  |GM/XG/Bass
+0 40 39 Modular Syn Bass  |GM/XG/Bass
+0 41 39 DX Bass  |GM/XG/Bass
+0 64 39 X Wire Bass  |GM/XG/Bass
+121 0 40 Violin GM  |GM/XG/Streich.
+121 1 40 Slow Att. Violin  |GM/XG/Streich.
+121 0 41 Viola GM  |GM/XG/Streich.
+121 0 42 Cello GM  |GM/XG/Streich.
+121 0 43 Contrabass GM  |GM/XG/Streich.
+121 0 44 Tremolo Str. GM  |GM/XG/Streich.
+121 0 45 Pizzicato Str.GM  |GM/XG/Streich.
+121 0 46 Harp GM  |GM/XG/Streich.
+121 1 46 Yang Chin  |GM/XG/Streich.
+121 0 47 Timpani GM  |GM/XG/Streich.
+0 0 40 Violin XG  |GM/XG/Streich.
+0 8 40 Slow Atk Violin  |GM/XG/Streich.
+0 0 41 Viola XG  |GM/XG/Streich.
+0 0 42 Cello XG  |GM/XG/Streich.
+0 0 43 Contrabass XG  |GM/XG/Streich.
+0 0 44 Tremolo Str. XG  |GM/XG/Streich.
+0 8 44 Slw Tremolo Str.  |GM/XG/Streich.
+0 40 44 Suspense Strings  |GM/XG/Streich.
+0 0 45 Pizzicato Str.XG  |GM/XG/Streich.
+0 0 46 Harp XG  |GM/XG/Streich.
+0 40 46 Yang Chin  |GM/XG/Streich.
+0 0 47 Timpani XG  |GM/XG/Streich.
+121 0 48 Strings Ens.1 GM  |GM/XG/Streich.
+121 1 48 Strings & Brass  |GM/XG/Streich.
+121 2 48 60’s Strings  |GM/XG/Streich.
+121 0 49 Strings Ens.2 GM  |GM/XG/Streich.
+121 0 50 Synth Strings1GM  |GM/XG/Streich.
+121 1 50 Synth Strings 3  |GM/XG/Streich.
+121 0 51 Synth Strings2GM  |GM/XG/Streich.
+121 0 52 Choir Aahs GM  |GM/XG/Streich.
+121 1 52 Choir Aahs 2  |GM/XG/Streich.
+121 0 53 Voice Oohs GM  |GM/XG/Streich.
+121 1 53 Humming  |GM/XG/Streich.
+121 0 54 Synth Voice GM  |GM/XG/Streich.
+121 1 54 Analog Voice  |GM/XG/Streich.
+121 0 55 Orchestra Hit GM  |GM/XG/Streich.
+121 1 55 Bass Hit Plus  |GM/XG/Streich.
+121 2 55 6th Hit  |GM/XG/Streich.
+121 3 55 Euro Hit  |GM/XG/Streich.
+0 0 48 Strings Ens.1 XG  |GM/XG/Streich.
+0 3 48 Stereo Stringx  |GM/XG/Streich.
+0 8 48 Slw Atk Strings  |GM/XG/Streich.
+0 24 48 Arco Stringx  |GM/XG/Streich.
+0 35 48 60’s Strings  |GM/XG/Streich.
+0 40 48 Orchestra  |GM/XG/Streich.
+0 41 48 Orchestra 2  |GM/XG/Streich.
+0 42 48 TremoloOrchestra  |GM/XG/Streich.
+0 45 48 Velocity Strings  |GM/XG/Streich.
+0 0 49 Strings Ens.2 XG  |GM/XG/Streich.
+0 3 49 StereoSlwStrings  |GM/XG/Streich.
+0 8 49 SlwLegatoStrings  |GM/XG/Streich.
+0 40 49 Warm Strings  |GM/XG/Streich.
+0 41 49 Kingdom  |GM/XG/Streich.
+0 64 49 70’s Strings  |GM/XG/Streich.
+0 65 49 Strings 3  |GM/XG/Streich.
+0 0 50 Synth Strings1XG  |GM/XG/Streich.
+0 27 50 Reso Strings  |GM/XG/Streich.
+0 64 50 Synth Strings 4  |GM/XG/Streich.
+0 65 50 Synth Strings 5  |GM/XG/Streich.
+0 0 51 Synth Strings2XG  |GM/XG/Streich.
+0 0 52 Choir Aahs XG  |GM/XG/Streich.
+0 3 52 Stereo Choir  |GM/XG/Streich.
+0 16 52 Choir Aahs 3  |GM/XG/Streich.
+0 32 52 Mellow Choir  |GM/XG/Streich.
+0 40 52 Choir Strings  |GM/XG/Streich.
+0 0 53 Voice Oohs XG  |GM/XG/Streich.
+0 0 54 Synth Voice XG  |GM/XG/Streich.
+0 40 54 Synth Voix  |GM/XG/Streich.
+0 41 54 Choral  |GM/XG/Streich.
+0 64 54 Analog Voix  |GM/XG/Streich.
+0 0 55 Orchestra Hit XG  |GM/XG/Streich.
+0 35 55 Orchestra Hitx  |GM/XG/Streich.
+0 64 55 Impact  |GM/XG/Streich.
+121 0 56 Trumpet GM  |GM/XG/Blaeser
+121 1 56 Dark Trumpet  |GM/XG/Blaeser
+121 0 57 Trombone GM  |GM/XG/Blaeser
+121 1 57 Trombone 2  |GM/XG/Blaeser
+121 2 57 Bright Trombone  |GM/XG/Blaeser
+121 0 58 Tuba GM  |GM/XG/Blaeser
+121 0 59 Muted Trumpet GM  |GM/XG/Blaeser
+121 1 59 Muted Trumpet 2  |GM/XG/Blaeser
+121 0 60 French Horn GM  |GM/XG/Blaeser
+121 1 60 FrenchHorn Warm  |GM/XG/Blaeser
+121 0 61 Brass Section GM  |GM/XG/Blaeser
+121 1 61 Brass Section 2  |GM/XG/Blaeser
+121 0 62 Synth Brass 1 GM  |GM/XG/Blaeser
+121 1 62 Synth Brass 3  |GM/XG/Blaeser
+121 2 62 Analog Brass 1  |GM/XG/Blaeser
+121 3 62 Jump Brass  |GM/XG/Blaeser
+121 0 63 Synth Brass 2 GM  |GM/XG/Blaeser
+121 1 63 Synth Brass 4  |GM/XG/Blaeser
+121 2 63 Analog Brass 2  |GM/XG/Blaeser
+0 0 56 Trumpet XG  |GM/XG/Blaeser
+0 16 56 Trumpet 2  |GM/XG/Blaeser
+0 17 56 Brite Trumpet  |GM/XG/Blaeser
+0 0 57 Trombone XG  |GM/XG/Blaeser
+0 18 57 Warm Trombone  |GM/XG/Blaeser
+0 0 58 Tuba XG  |GM/XG/Blaeser
+0 16 58 Tuba 2  |GM/XG/Blaeser
+0 0 59 Muted Trumpet XG  |GM/XG/Blaeser
+0 0 60 French Horn XG  |GM/XG/Blaeser
+0 6 60 French Horn Solo  |GM/XG/Blaeser
+0 32 60 Warm French Horn  |GM/XG/Blaeser
+0 37 60 Horn Orchestra  |GM/XG/Blaeser
+0 0 61 Brass Section XG  |GM/XG/Blaeser
+0 35 61 Tpt&Tbn Section  |GM/XG/Blaeser
+0 40 61 Brass Section 3  |GM/XG/Blaeser
+0 41 61 Hit Brass  |GM/XG/Blaeser
+0 42 61 Mellow Brass  |GM/XG/Blaeser
+0 0 62 Synth Brass 1 XG  |GM/XG/Blaeser
+0 12 62 Quack Brass  |GM/XG/Blaeser
+0 20 62 Res. Synth Brass  |GM/XG/Blaeser
+0 24 62 Poly Brass  |GM/XG/Blaeser
+0 27 62 Synth Brass 4  |GM/XG/Blaeser
+0 32 62 Jump Brass  |GM/XG/Blaeser
+0 45 62 AnaVel Brass 1  |GM/XG/Blaeser
+0 64 62 AnaLog Brass 1  |GM/XG/Blaeser
+0 0 63 Synth Brass 2 XG  |GM/XG/Blaeser
+0 18 63 Soft Brass  |GM/XG/Blaeser
+0 40 63 Synth Brass X  |GM/XG/Blaeser
+0 41 63 Choir Brass  |GM/XG/Blaeser
+0 45 63 AnaVel Brass 2  |GM/XG/Blaeser
+0 64 63 AnaLog Brass 2  |GM/XG/Blaeser
+121 0 64 Soprano Sax GM  |GM/XG/Holzblaeser
+121 0 65 Alto Sax GM  |GM/XG/Holzblaeser
+121 0 66 Tenor Sax GM  |GM/XG/Holzblaeser
+121 0 67 Baritone Sax GM  |GM/XG/Holzblaeser
+121 0 68 Oboe GM  |GM/XG/Holzblaeser
+121 0 69 English Horn GM  |GM/XG/Holzblaeser
+121 0 70 Bassoon GM  |GM/XG/Holzblaeser
+121 0 71 Clarinet GM  |GM/XG/Holzblaeser
+0 0 64 Soprano Sax XG  |GM/XG/Holzblaeser
+0 0 65 Alto Sax XG  |GM/XG/Holzblaeser
+0 40 65 Sax Section  |GM/XG/Holzblaeser
+0 43 65 HyperAltoSax  |GM/XG/Holzblaeser
+0 0 66 Tenor Sax XG  |GM/XG/Holzblaeser
+0 40 66 BreathyTenorSax  |GM/XG/Holzblaeser
+0 41 66 Soft Tenor Sax  |GM/XG/Holzblaeser
+0 64 66 Tenor Sax 2  |GM/XG/Holzblaeser
+0 0 67 Baritone Sax XG  |GM/XG/Holzblaeser
+0 0 68 Oboe XG  |GM/XG/Holzblaeser
+0 0 69 English Horn XG  |GM/XG/Holzblaeser
+0 0 70 Bassoon XG  |GM/XG/Holzblaeser
+0 0 71 Clarinet XG  |GM/XG/Holzblaeser
+121 0 72 Piccolo GM  |GM/XG/Floete
+121 0 73 Flute GM  |GM/XG/Floete
+121 0 74 Recorder GM  |GM/XG/Floete
+121 0 75 Pan Flute GM  |GM/XG/Floete
+121 0 76 Blown Bottle GM  |GM/XG/Floete
+121 0 77 Shakuhachi GM  |GM/XG/Floete
+121 0 78 Whistle GM  |GM/XG/Floete
+121 0 79 Ocarina GM  |GM/XG/Floete
+0 0 72 Piccolo XG  |GM/XG/Floete
+0 0 73 Flute XG  |GM/XG/Floete
+0 0 74 Recorder XG  |GM/XG/Floete
+0 0 75 Pan Flute XG  |GM/XG/Floete
+0 0 76 Blown Bottle XG  |GM/XG/Floete
+0 0 77 Shakuhachi XG  |GM/XG/Floete
+0 0 78 Whistle XG  |GM/XG/Floete
+0 0 79 Ocarina XG  |GM/XG/Floete
+121 0 80 Lead Square GM  |GM/XG/Synth.
+121 1 80 Lead Square 2  |GM/XG/Synth.
+121 2 80 Lead Sine  |GM/XG/Synth.
+121 0 81 Lead Saw GM  |GM/XG/Synth.
+121 1 81 Lead Saw 2  |GM/XG/Synth.
+121 2 81 Lead Saw & Pulse  |GM/XG/Synth.
+121 3 81 Lead Double Saw  |GM/XG/Synth.
+121 4 81 Lead Seq. Analog  |GM/XG/Synth.
+121 0 82 Calliope GM  |GM/XG/Synth.
+121 0 83 Chiff GM  |GM/XG/Synth.
+121 0 84 Charang GM  |GM/XG/Synth.
+121 1 84 Wire Lead  |GM/XG/Synth.
+121 0 85 Voice Lead GM  |GM/XG/Synth.
+121 0 86 Fifths Lead GM  |GM/XG/Synth.
+121 0 87 Bass & Lead GM  |GM/XG/Synth.
+121 1 87 Lead Soft Wrl  |GM/XG/Synth.
+121 0 88 New Age Pad GM  |GM/XG/Synth.
+121 0 89 Warm Pad GM  |GM/XG/Synth.
+121 1 89 Sine Pad  |GM/XG/Synth.
+121 0 90 Polysynth GM  |GM/XG/Synth.
+121 0 91 Choir Pad GM  |GM/XG/Synth.
+121 1 91 Itopia Pad  |GM/XG/Synth.
+121 0 92 Bowed Glass GM  |GM/XG/Synth.
+121 0 93 Metallic Pad GM  |GM/XG/Synth.
+121 0 94 Halo Pad GM  |GM/XG/Synth.
+121 0 95 Sweep Pad GM  |GM/XG/Synth.
+0 0 80 Lead Square XG  |GM/XG/Synth.
+0 6 80 Square Lead  |GM/XG/Synth.
+0 8 80 LM Square  |GM/XG/Synth.
+0 18 80 Hollow  |GM/XG/Synth.
+0 19 80 Shroud  |GM/XG/Synth.
+0 64 80 Mellow  |GM/XG/Synth.
+0 65 80 Solo Sine  |GM/XG/Synth.
+0 66 80 Sine Lead  |GM/XG/Synth.
+0 0 81 Lead Saw XG  |GM/XG/Synth.
+0 6 81 Sawtooth Lead  |GM/XG/Synth.
+0 8 81 Thick Sawtooth  |GM/XG/Synth.
+0 18 81 Dynamic Sawtooth  |GM/XG/Synth.
+0 19 81 Digital Saw  |GM/XG/Synth.
+0 20 81 Big Lead  |GM/XG/Synth.
+0 24 81 Heavy Synth  |GM/XG/Synth.
+0 25 81 Wasp Synth  |GM/XG/Synth.
+0 40 81 Pulse Saw  |GM/XG/Synth.
+0 41 81 Dr. Lead  |GM/XG/Synth.
+0 45 81 Velocity Lead  |GM/XG/Synth.
+0 96 81 Sequenced Analog  |GM/XG/Synth.
+0 0 82 Calliope XG  |GM/XG/Synth.
+0 65 82 Pure Lead  |GM/XG/Synth.
+0 0 83 Chiff XG  |GM/XG/Synth.
+0 64 83 Rubby  |GM/XG/Synth.
+0 0 84 Charang XG  |GM/XG/Synth.
+0 64 84 Distorted Lead  |GM/XG/Synth.
+0 65 84 Wire Lead  |GM/XG/Synth.
+0 0 85 Voice Lead XG  |GM/XG/Synth.
+0 24 85 Synth Aahs  |GM/XG/Synth.
+0 64 85 Vox Lead  |GM/XG/Synth.
+0 0 86 Fifths Lead XG  |GM/XG/Synth.
+0 35 86 Big Five  |GM/XG/Synth.
+0 0 87 Bass & Lead XG  |GM/XG/Synth.
+0 16 87 Big & Low  |GM/XG/Synth.
+0 64 87 Fat & Perky  |GM/XG/Synth.
+0 65 87 Soft Whirl  |GM/XG/Synth.
+0 0 88 New Age Pad XG  |GM/XG/Synth.
+0 64 88 Fantasy  |GM/XG/Synth.
+0 0 89 Warm Pad XG  |GM/XG/Synth.
+0 16 89 Thick Pad  |GM/XG/Synth.
+0 17 89 Soft Pad  |GM/XG/Synth.
+0 18 89 Sine Pad  |GM/XG/Synth.
+0 64 89 Horn Pad  |GM/XG/Synth.
+0 65 89 Rotary Strings  |GM/XG/Synth.
+0 0 90 Polysynth XG  |GM/XG/Synth.
+0 64 90 Poly Pad 800  |GM/XG/Synth.
+0 65 90 Click Pad  |GM/XG/Synth.
+0 66 90 Analog Pad  |GM/XG/Synth.
+0 67 90 Square Pad  |GM/XG/Synth.
+0 0 91 Choir Pad XG  |GM/XG/Synth.
+0 64 91 Heaven Mod  |GM/XG/Synth.
+0 66 91 Itopia  |GM/XG/Synth.
+0 67 91 C.C. Pad  |GM/XG/Synth.
+0 0 92 Bowed Glass XG  |GM/XG/Synth.
+0 64 92 Glacier  |GM/XG/Synth.
+0 0 93 Metallic Pad XG  |GM/XG/Synth.
+0 64 93 Tine Pad  |GM/XG/Synth.
+0 65 93 Pan Pad  |GM/XG/Synth.
+0 0 94 Halo Pad XG  |GM/XG/Synth.
+0 0 95 Sweep Pad XG  |GM/XG/Synth.
+0 20 95 Shwimmer  |GM/XG/Synth.
+0 27 95 Converge  |GM/XG/Synth.
+0 64 95 Polar Pad  |GM/XG/Synth.
+0 66 95 Celestial  |GM/XG/Synth.
+121 0 96 Ice Rain GM  |GM/XG/Synth. SFX
+121 0 97 Soundtrack GM  |GM/XG/Synth. SFX
+121 0 98 Crystal GM  |GM/XG/Synth. SFX
+121 1 98 Synth Mallet  |GM/XG/Synth. SFX
+121 0 99 Atmosphere GM  |GM/XG/Synth. SFX
+121 0 100 Brightness GM  |GM/XG/Synth. SFX
+121 0 101 Goblins GM  |GM/XG/Synth. SFX
+121 0 102 Echo Drops GM  |GM/XG/Synth. SFX
+121 1 102 Echo Bell  |GM/XG/Synth. SFX
+121 2 102 Echo Pan  |GM/XG/Synth. SFX
+121 0 103 Star Theme GM  |GM/XG/Synth. SFX
+0 0 96 Ice Rain XG  |GM/XG/Synth. SFX
+0 45 96 Clav. Pad  |GM/XG/Synth. SFX
+0 64 96 Harmo. Rain  |GM/XG/Synth. SFX
+0 65 96 African Wind  |GM/XG/Synth. SFX
+0 66 96 Carib  |GM/XG/Synth. SFX
+0 0 97 Soundtrack XG  |GM/XG/Synth. SFX
+0 27 97 Prologue  |GM/XG/Synth. SFX
+0 64 97 Ancestral Clouds  |GM/XG/Synth. SFX
+0 0 98 Crystal XG  |GM/XG/Synth. SFX
+0 12 98 Synth Drum Comp.  |GM/XG/Synth. SFX
+0 14 98 Popcorn  |GM/XG/Synth. SFX
+0 18 98 Tiny Bells  |GM/XG/Synth. SFX
+0 35 98 Round Glocken.  |GM/XG/Synth. SFX
+0 40 98 Glocken. Chimes  |GM/XG/Synth. SFX
+0 41 98 Clear Bells  |GM/XG/Synth. SFX
+0 42 98 Chorus Bells  |GM/XG/Synth. SFX
+0 64 98 Synth Mallet  |GM/XG/Synth. SFX
+0 65 98 Soft Crystal  |GM/XG/Synth. SFX
+0 66 98 LoudGlockenspiel  |GM/XG/Synth. SFX
+0 67 98 Xmas Bell  |GM/XG/Synth. SFX
+0 68 98 Vibe Bells  |GM/XG/Synth. SFX
+0 69 98 Digital Bells  |GM/XG/Synth. SFX
+0 70 98 Air Bells  |GM/XG/Synth. SFX
+0 71 98 Bell Harp  |GM/XG/Synth. SFX
+0 72 98 Gamelimba  |GM/XG/Synth. SFX
+0 0 99 Atmosphere XG  |GM/XG/Synth. SFX
+0 18 99 Warm Atmosph.  |GM/XG/Synth. SFX
+0 19 99 Hollow Release  |GM/XG/Synth. SFX
+0 40 99 Nylon El. Piano  |GM/XG/Synth. SFX
+0 64 99 Nylon Harp  |GM/XG/Synth. SFX
+0 65 99 Harp Vox  |GM/XG/Synth. SFX
+0 66 99 Atmosphere Pad  |GM/XG/Synth. SFX
+0 67 99 Planet  |GM/XG/Synth. SFX
+0 0 100 Brightness XG  |GM/XG/Synth. SFX
+0 64 100 Fantasy Bells  |GM/XG/Synth. SFX
+0 96 100 Smokey  |GM/XG/Synth. SFX
+0 0 101 Goblins XG  |GM/XG/Synth. SFX
+0 64 101 Goblin Synth  |GM/XG/Synth. SFX
+0 65 101 Creeper  |GM/XG/Synth. SFX
+0 66 101 Ring Pad  |GM/XG/Synth. SFX
+0 67 101 Ritual  |GM/XG/Synth. SFX
+0 68 101 To Heaven  |GM/XG/Synth. SFX
+0 70 101 Night  |GM/XG/Synth. SFX
+0 71 101 Glisten  |GM/XG/Synth. SFX
+0 96 101 Bell Choir  |GM/XG/Synth. SFX
+0 0 102 Echo Drops XG  |GM/XG/Synth. SFX
+0 8 102 Echoes  |GM/XG/Synth. SFX
+0 14 102 Echo Pan X  |GM/XG/Synth. SFX
+0 64 102 Echo Bell X  |GM/XG/Synth. SFX
+0 65 102 Big Pan  |GM/XG/Synth. SFX
+0 66 102 Synth Piano  |GM/XG/Synth. SFX
+0 67 102 Creation  |GM/XG/Synth. SFX
+0 68 102 Star Dust  |GM/XG/Synth. SFX
+0 69 102 Pan Reso X  |GM/XG/Synth. SFX
+0 0 103 Star Theme XG  |GM/XG/Synth. SFX
+0 64 103 Starz  |GM/XG/Synth. SFX
+121 0 104 Sitar GM  |GM/XG/Welt
+121 1 104 Sitar 2  |GM/XG/Welt
+121 0 105 Banjo GM  |GM/XG/Welt
+121 0 106 Shamisen GM  |GM/XG/Welt
+121 0 107 Koto GM  |GM/XG/Welt
+121 1 107 Taisho Koto  |GM/XG/Welt
+121 0 108 Kalimba GM  |GM/XG/Welt
+121 0 109 Bag Pipes GM  |GM/XG/Welt
+121 0 110 Fiddle GM  |GM/XG/Welt
+121 0 111 Shanai GM  |GM/XG/Welt
+0 0 104 Sitar XG  |GM/XG/Welt
+0 32 104 Detuned Sitar  |GM/XG/Welt
+0 35 104 Octave Sitar  |GM/XG/Welt
+0 97 104 Tamboura  |GM/XG/Welt
+0 0 105 Banjo XG  |GM/XG/Welt
+0 28 105 Muted Banjo  |GM/XG/Welt
+0 96 105 Rabab  |GM/XG/Welt
+0 97 105 Gopichant  |GM/XG/Welt
+0 98 105 Oud 3  |GM/XG/Welt
+0 0 106 Shamisen XG  |GM/XG/Welt
+0 0 107 Koto XG  |GM/XG/Welt
+0 96 107 Taisho-Kin  |GM/XG/Welt
+0 97 107 Kanoun X  |GM/XG/Welt
+0 0 108 Kalimba XG  |GM/XG/Welt
+0 0 109 Bag Pipes XG  |GM/XG/Welt
+0 0 110 Fiddle XG  |GM/XG/Welt
+0 0 111 Shanai XG  |GM/XG/Welt
+121 0 112 Tinkle Bell GM  |GM/XG/Perkussion
+121 0 113 Agogo GM  |GM/XG/Perkussion
+121 0 114 Steel Drums GM  |GM/XG/Perkussion
+121 0 115 Woodblock GM  |GM/XG/Perkussion
+121 1 115 Castanets  |GM/XG/Perkussion
+121 0 116 Taiko Drum GM  |GM/XG/Perkussion
+121 1 116 Concert BassDrum  |GM/XG/Perkussion
+121 0 117 Melodic Tom GM  |GM/XG/Perkussion
+121 1 117 Melodic Tom 2  |GM/XG/Perkussion
+121 0 118 Synth Drum GM  |GM/XG/Perkussion
+121 1 118 Rhythm Box Tom  |GM/XG/Perkussion
+121 2 118 Electric Drum  |GM/XG/Perkussion
+121 0 119 ReverseCymbalGM  |GM/XG/Perkussion
+0 0 112 Tinkle Bell XG  |GM/XG/Perkussion
+0 96 112 Bonang  |GM/XG/Perkussion
+0 97 112 Altair  |GM/XG/Perkussion
+0 98 112 Gamelal Gongs  |GM/XG/Perkussion
+0 99 112 St.GamelanGongs  |GM/XG/Perkussion
+0 100 112 Rama Cymbal  |GM/XG/Perkussion
+0 101 112 Asian Bells  |GM/XG/Perkussion
+0 0 113 Agogo XG  |GM/XG/Perkussion
+0 0 114 Steel Drums XG  |GM/XG/Perkussion
+0 97 114 Glass Percussion  |GM/XG/Perkussion
+0 98 114 Thai Bells  |GM/XG/Perkussion
+0 0 115 Woodblock XG  |GM/XG/Perkussion
+0 96 115 Castanex  |GM/XG/Perkussion
+0 0 116 Taiko Drum XG  |GM/XG/Perkussion
+0 96 116 Gran Cassa  |GM/XG/Perkussion
+0 0 117 Melodic Tom XG  |GM/XG/Perkussion
+0 64 117 Melodic Tom 3  |GM/XG/Perkussion
+0 65 117 Real Tom  |GM/XG/Perkussion
+0 66 117 Rock Tom  |GM/XG/Perkussion
+0 0 118 Synth Drum XG  |GM/XG/Perkussion
+0 64 118 Analog Tom  |GM/XG/Perkussion
+0 65 118 Electric Perc.  |GM/XG/Perkussion
+0 0 119 ReverseCymbalXG  |GM/XG/Perkussion
+121 0 120 Gtr FretNoise GM  |GM/XG/SFX
+121 1 120 Guitar Cut Noise  |GM/XG/SFX
+121 2 120 Ac. Bass String  |GM/XG/SFX
+121 0 121 Breath Noise GM  |GM/XG/SFX
+121 1 121 Flute Key Click  |GM/XG/SFX
+121 0 122 Seashore GM  |GM/XG/SFX
+121 1 122 Rain  |GM/XG/SFX
+121 2 122 Thunder  |GM/XG/SFX
+121 3 122 Wind  |GM/XG/SFX
+121 4 122 Stream  |GM/XG/SFX
+121 5 122 Bubble  |GM/XG/SFX
+121 0 123 Bird Tweet GM  |GM/XG/SFX
+121 1 123 Dog  |GM/XG/SFX
+121 2 123 Horse Gallop  |GM/XG/SFX
+121 3 123 Bird Tweet 2  |GM/XG/SFX
+121 0 124 Telephone GM  |GM/XG/SFX
+121 1 124 Telephone 2  |GM/XG/SFX
+121 2 124 Door Creaking  |GM/XG/SFX
+121 3 124 Door  |GM/XG/SFX
+121 4 124 Scratch  |GM/XG/SFX
+121 5 124 Wind Chime  |GM/XG/SFX
+121 0 125 Helicopter GM  |GM/XG/SFX
+121 1 125 Car Engine  |GM/XG/SFX
+121 2 125 Car Stop  |GM/XG/SFX
+121 3 125 Car Pass  |GM/XG/SFX
+121 4 125 Car Crash  |GM/XG/SFX
+121 5 125 Siren  |GM/XG/SFX
+121 6 125 Train  |GM/XG/SFX
+121 7 125 Jetplane  |GM/XG/SFX
+121 8 125 Starship  |GM/XG/SFX
+121 9 125 Burst Noise  |GM/XG/SFX
+121 0 126 Applause GM  |GM/XG/SFX
+121 1 126 Laughing  |GM/XG/SFX
+121 2 126 Screaming  |GM/XG/SFX
+121 3 126 Punch  |GM/XG/SFX
+121 4 126 Heart Beat  |GM/XG/SFX
+121 5 126 Footsteps  |GM/XG/SFX
+121 0 127 Gun Shot GM  |GM/XG/SFX
+121 1 127 Machine Gun  |GM/XG/SFX
+121 2 127 Laser Gun  |GM/XG/SFX
+121 3 127 Explosion  |GM/XG/SFX
+0 0 120 Gtr FretNoise XG  |GM/XG/SFX
+0 0 121 Breath Noise XG  |GM/XG/SFX
+0 0 122 Seashore XG  |GM/XG/SFX
+0 0 123 Bird Tweet XG  |GM/XG/SFX
+0 0 124 Telephone XG  |GM/XG/SFX
+0 0 125 Helicopter XG  |GM/XG/SFX
+0 0 126 Applause XG  |GM/XG/SFX
+0 0 127 Gun Shot XG  |GM/XG/SFX
+120 0 0 Standard Kit GM  |GM/XG/Schlagz.
+120 0 8 Room Kit GM  |GM/XG/Schlagz.
+120 0 16 Power Kit GM  |GM/XG/Schlagz.
+120 0 24 Electro Kit GM  |GM/XG/Schlagz.
+120 0 25 Analog Kit GM  |GM/XG/Schlagz.
+120 0 32 Jazz Kit GM  |GM/XG/Schlagz.
+120 0 40 Brush Kit GM  |GM/XG/Schlagz.
+120 0 48 Orchestra Kit GM  |GM/XG/Schlagz.
+120 0 56 SFX Kit GM  |GM/XG/Schlagz.
+127 0 0 Standard Kit1 XG  |GM/XG/Schlagz.
+127 0 1 Standard Kit2 XG  |GM/XG/Schlagz.
+127 0 8 Room Kit XG  |GM/XG/Schlagz.
+127 0 16 Rock Kit XG  |GM/XG/Schlagz.
+127 0 24 Electro Kit XG  |GM/XG/Schlagz.
+127 0 25 Analog Kit XG  |GM/XG/Schlagz.
+127 0 32 Jazz Kit 1 XG  |GM/XG/Schlagz.
+127 0 33 Jazz Kit 2 XG  |GM/XG/Schlagz.
+127 0 40 Brush Kit XG  |GM/XG/Schlagz.
+127 0 48 Classic Kit XG  |GM/XG/Schla
+
+99 1 25 12sait.Folk1 DNC  |Factory/Gitarre 
+99 2 25 12sait.Folk2 DNC  |Factory/Gitarre 
+99 4 16 50er Orgel brill  |Factory/Orgel 
+99 0 17 50er Orgel Perk.  |Factory/Orgel 
+99 5 16 50er Orgel V.SW  |Factory/Orgel 
+99 3 16 50er Orgel warm  |Factory/Orgel 
+99 0 25 6sait.Folk DNC  |Factory/Gitarre 
+99 10 27 Amp E.Git2 DNC  |Factory/Gitarre 
+99 0 81 Ana.SawLeadSynth  |Factory/Synth Solo 
+99 2 92 AnaBell Flaeche  |Factory/Synth Flaeche 
+99 4 91 Athmoflaeche 1  |Factory/Synth Flaeche 
+99 1 4 Balladen E.Piano  |Factory/E. Piano 
+99 3 58 Bariton kurz DNC  |Factory/Blech Solo 
+99 0 32 BigBandBass1 RX  |Factory/Bass 
+99 1 32 BigBandBass2 RX  |Factory/Bass 
+99 3 61 Blaeser Ensemb.1  |Factory/Blech 
+Ensemb. 
+99 4 61 Blaeser Ensemb.2  |Factory/Blech 
+Ensemb. 
+99 0 1 Boogie Hammer  |Factory/Piano 
+99 0 18 BX3 Orgel JS- 1  |Factory/Orgel 
+99 1 18 BX3 Orgel JS- 2  |Factory/Orgel 
+99 2 18 BX3 Orgel JS- 3  |Factory/Orgel 
+99 1 17 BX3 Perk.Orgel1  |Factory/Orgel 
+99 2 17 BX3 Perk.Orgel2  |Factory/Orgel 
+99 6 87 Chart Lead 1  |Factory/Synth Solo 
+99 7 87 Chart Lead 2  |Factory/Synth Solo 
+99 1 66 Cool Ten.Sax DNC  |Factory/Sax 
+99 5 53 Da>La Chor Pop  |Factory/Streich. & Chor 
+99 15 87 Dance ResBass JS  |Factory/Synth Solo 
+99 0 16 Entert. Orgel 1  |Factory/Orgel 
+99 1 16 Entert. Orgel 2  |Factory/Orgel 
+99 2 16 Entert. Orgel 3  |Factory/Orgel 
+99 7 91 Fairlight Pop  |Factory/Synth Flaeche 
+99 0 73 Floete Gliss.DNC  |Factory/Holzblaeser 
+99 1 0 Fluegel & Synth1  |Factory/Piano 
+99 3 0 Fluegel & Synth2  |Factory/Piano 
+99 5 0 Fluegel&Str. 1  |Factory/Piano 
+99 2 0 Fluegel&Str. 2  |Factory/Piano 
+99 2 53 Frauen Chor Ah  |Factory/Streich. &
+Chor 
+99 4 53 FrauenChor AhPop  |Factory/Streich. & Chor 
+99 2 91 FreshAir 2025 1  |Factory/Synth Flaeche 
+99 3 91 FreshAir 2025 2  |Factory/Synth Flaeche 
+99 13 16 Fusslag. Hoch4 V  |Factory/Orgel 
+99 14 16 Fusslag. Hoch5 V  |Factory/Orgel 
+99 3 53 Gem. Chor Ah  |Factory/Streich. &
+Chor 
+99 0 53 Gemischter Chor  |Factory/Streich. &
+Chor 
+99 12 27 Gliss. E.Git DNC  |Factory/Gitarre 
+99 1 57 Gliss.Posaune  |Factory/Blech Solo 
+99 0 57 Gls.Posaune Mono  |Factory/Blech Solo 
+99 9 16 Gospel Orgel JSF  |Factory/Orgel 
+99 7 66 Greger Ens.1  |Factory/Sax 
+99 8 66 Greger Ens.2  |Factory/Sax 
+99 9 66 Greger Ens.3  |Factory/Sax 
+99 6 66 GregrSolo SaxDNC  |Factory/Sax 
+99 3 26 Hawaii Git. DNC  |Factory/Gitarre 
+99 1 91 Heaven Bells  |Factory/Synth Flaeche 
+99 9 53 Hm>Ahh Vel. Pop  |Factory/Streich. & Chor 
+99 8 53 Hmm/Ah Chor Pop  |Factory/Streich. & Chor 
+99 7 53 Hmm/Ahhs Chor  |Factory/Streich. & Chor 
+99 6 16 Ital. ‘60 Orgel  |Factory/Orgel 
+99 1 56 Jazz Tromp 2 DNC  |Factory/Blech Solo 
+99 2 56 Jazz Tromp 3 DNC  |Factory/Blech Solo 
+99 3 56 JazzKornett2 DNC  |Factory/Blech Solo 
+99 2 57 JazzPosaune3 DNC  |Factory/Blech Solo 
+99 10 53 Jodeln is schee  |Factory/Streich. &
+Chor 
+99 2 81 Jump Synth  |Factory/Synth Solo 
+99 0 34 Kaempfert BassRX  |Factory/Bass 
+99 0 74 Kawala 2  |Factory/Welt 
+99 7 16 Kino Orgel  |Factory/Orgel 
+99 3 71 Klarin.& Blaeser  |Factory/Holzblaeser 
+99 6 71 Klarin.Gliss.DNC  |Factory/Holzblaeser 
+99 7 71 Klarin.Glissando  |Factory/Holzblaeser 
+99 9 92 Klass. HiBell 1  |Factory/Synth Flaeche 
+99 10 92 Klass. HiBell 2  |Factory/Synth Flaeche 
+99 8 92 Klass. Legend  |Factory/Synth Flaeche 
+99 0 92 Klass.BellSynth1  |Factory/Synth Flaeche 
+99 1 92 Klass.BellSynth2  |Factory/Synth Flaeche 
+99 11 92 Klass.PopSynth 1  |Factory/Synth Flaeche 
+99 12 92 Klass.PopSynth 2  |Factory/Synth Flaeche 
+99 0 71 Kleines Orch. 2  |Factory/Holzblaeser 
+99 1 34 Knock Bass RX  |Factory/Bass 
+99 0 24 Konz. Git 3 DNC  |Factory/Gitarre 
+99 0 49 Konz. Streicher2  |Factory/Streich. &
+Chor 
+99 1 24 KonzGit12saitDNC  |Factory/Gitarre 
+99 0 0 Live-Fluegel 2  |Factory/Piano 
+99 12 16 Medium Orgel JSF  |Factory/Orgel 
+99 5 92 MidiStack Synth  |Factory/Synth Flaeche 
+99 6 53 Mixed Chor Hmm  |Factory/Streich. &
+Chor 
+99 4 92 Moving Flaeche  |Factory/Synth Flaeche 
+99 1 71 Nay 2  |Factory/Welt 
+99 0 58 Oberkr. Tuba 1  |Factory/Blech Solo 
+99 0 55 Orch.Hit Stereo1  |Factory/Blech 
+Ensemb. 
+99 1 55 Orch.Hit Stereo2  |Factory/Blech 
+Ensemb. 
+99 0 48 Orchester Tutti3  |Factory/Streich. &
+Chor 
+99 3 17 Orgel Perkussion  |Factory/Orgel 
+99 15 16 Orgel RX 16’ V  |Factory/Orgel 
+99 16 16 Orgel RX 16’+1’V  |Factory/Orgel 
+99 0 29 Ovdr.E.Git 1 DNC  |Factory/Gitarre 
+99 1 74 Panfloete 1 DNC  |Factory/Holzblaeser 
+99 2 74 Panfloete 2 DNC  |Factory/Holzblaeser 
+99 2 26 Pedalsteel 1 DNC  |Factory/Gitarre 
+99 1 26 Pedalsteel 2 DNC  |Factory/Gitarre 
+99 0 26 Pedalsteel 3 DNC  |Factory/Gitarre 
+99 0 4 Phaser E.Piano 1  |Factory/E. Piano 
+99 6 0 PianoSphere  |Factory/Piano 
+99 2 71 Piccolo 2  |Factory/Holzblaeser 
+99 9 87 Pop Arpeggio 1  |Factory/Synth Solo 
+99 10 87 Pop Arpeggio 2  |Factory/Synth Solo 
+99 11 87 Pop Arpeggio 3  |Factory/Synth Solo 
+99 12 87 Pop Arpeggio 4  |Factory/Synth Solo 
+99 13 87 Pop Arpeggio 5  |Factory/Synth Solo 
+99 14 87 Pop Arpeggio 6  |Factory/Synth Solo 
+99 4 0 Pop Fluegel  |Factory/Piano 
+99 8 87 Pop Lead  |Factory/Synth Solo 
+99 6 92 PopSynth 1  |Factory/Synth Flaeche 
+99 7 92 PopSynth 2  |Factory/Synth Flaeche 
+99 0 91 PopSynth 4  |Factory/Synth Flaeche 
+99 0 97 Rave 1 DNC  |Factory/Synth Solo 
+99 1 97 Rave 2 DNC  |Factory/Synth Solo 
+99 2 97 Rave 3 DNC  |Factory/Synth Solo 
+99 3 97 Rave 4 Lev DNC  |Factory/Synth Solo 
+99 0 65 Sax Ensemble RX  |Factory/Sax 
+99 4 71 Sax/Klarin.Ens 1  |Factory/Holzblaeser 
+99 5 71 Sax/Klarin.Ens 2  |Factory/Holzblaeser 
+99 5 27 Shad Git1JSDNC  |Factory/Gitarre 
+99 8 27 Shad Git2JSDNC  |Factory/Gitarre 
+99 3 27 Shadow Git1 DNC  |Factory/Gitarre 
+99 4 27 Shadow Git1T DNC  |Factory/Gitarre 
+99 6 27 Shadow Git2 DNC  |Factory/Gitarre 
+99 7 27 Shadow Git2T DNC  |Factory/Gitarre 
+99 0 77 Shakuhachi Vel.2  |Factory/Holzblaeser 
+99 2 66 Soft Ten.Sax1DNC  |Factory/Sax 
+99 3 66 Soft Ten.Sax2DNC  |Factory/Sax 
+99 13 27 SolidBody DNC  |Factory/Gitarre 
+99 2 21 Solist Akkordeon  |Factory/Akkordeon 
+99 1 21 Solo Musette 1  |Factory/Akkordeon 
+99 0 68 Solo Oboe DNC  |Factory/Holzblaeser 
+99 4 66 SoloTen Sax1 DNC  |Factory/Sax 
+99 5 66 SoloTen Sax2 DNC  |Factory/Sax 
+99 6 91 Sonar Pad  |Factory/Synth Flaeche 
+99 5 91 Sonar Synth  |Factory/Synth Flaeche 
+99 1 53 Sopran Chor  |Factory/Streich. & Chor 
+99 3 87 SpikyPop 1 DNC  |Factory/Synth Solo 
+99 4 87 SpikyPop 2 DNC  |Factory/Synth Solo 
+99 5 87 SpikyPop 3 DNC  |Factory/Synth Solo 
+99 0 21 Steirisch.Akk.5  |Factory/Akkordeon 
+99 3 21 Steirisch.Akk.6  |Factory/Akkordeon 
+99 11 27 Strat Acc. 1 DNC  |Factory/Gitarre 
+99 9 27 Strat Acc. 2 DNC  |Factory/Gitarre 
+99 2 27 StratSoloGit DNC  |Factory/Gitarre 
+99 2 4 Studio E.Piano 1  |Factory/E. Piano 
+99 3 4 Studio E.Piano 2  |Factory/E. Piano 
+99 2 14 Synth.Gloeckchen  |Factory/Mallet & Bells 
+99 4 97 Techno Phoby 1  |Factory/Synth Solo 
+99 5 97 Techno Phoby 2  |Factory/Synth Solo 
+99 14 27 Tele Git DNC  |Factory/Gitarre 
+99 0 66 Tenor Sax 2 DNC  |Factory/Sax 
+99 0 60 Tenorhorn Expr.  |Factory/Blech Solo 
+99 0 78 Tinwhistle DNC  |Factory/Holzblaeser 
+99 1 81 Toto Synth  |Factory/Synth Solo 
+99 0 87 Trance 1 DNC  |Factory/Synth Solo 
+99 1 87 Trance 2 DNC  |Factory/Synth Solo 
+99 2 87 Trance 3 DNC  |Factory/Synth Solo 
+99 1 61 Tromp.&Blaeser 1  |Factory/Blech Ensemb. 
+99 1 60 Tromp.&Hoerner 1  |Factory/Blech Ensemb. 
+99 0 56 Tromp.AufAb DNC  |Factory/Blech Solo 
+99 2 61 Trompeten Ens. 1  |Factory/Blech Ensemb. 
+99 1 58 Tuba & Bs kurz 1  |Factory/Blech Solo 
+99 2 58 Tuba & Bs kurz 2  |Factory/Blech Solo 
+99 6 58 Tuba & Bs kurz 3  |Factory/Blech Solo 
+99 7 58 Tuba & Bs lang 1  |Factory/Blech Solo 
+99 8 58 Tuba & Bs lang 2  |Factory/Blech Solo 
+99 4 58 Tuba Musikant 1  |Factory/Blech Solo 
+99 5 58 Tuba Musikant 2  |Factory/Blech Solo 
+99 3 24 Ukulele 1 DNC  |Factory/Welt 
+99 4 24 Ukulele 2 DNC  |Factory/Welt 
+99 5 24 Ukulele 3 DNC  |Factory/Welt 
+99 2 24 Ukulele St. DNC  |Factory/Welt 
+99 6 24 Ukulele St. Pro  |Factory/Welt 
+99 0 27 Vint. E.Git DNC  |Factory/Gitarre 
+99 1 27 Vint. E.Git JSDN  |Factory/Gitarre 
+99 0 40 Violine DNC  |Factory/Streich. &
+Chor 
+99 0 61 Volle Bigband  |Factory/Blech Ensemb. 
+99 8 16 Volle Orgel JSF  |Factory/Orgel 
+99 3 92 Warme Flaeche 2  |Factory/Synth Flaeche 
+99 10 16 Warme Orgel1 JSF  |Factory/Orgel 
+99 11 16 Warme Orgel2 JSF  |Factory/Orgel 
+99 0 14 Weihn. Glocke 1  |Factory/Mallet & Bells 
+99 1 14 Weihn. Glocke 2  |Factory/Mallet & Bells 
+121 24 27 ‘54 E. Guitar  |Factory/Gitarre 
+121 17 25 12 Strings Pro  |Factory/Gitarre 
+121 18 25 12 Strings RX  |Factory/Gitarre 
+121 16 21 2 Voices Musette  |Factory/Akkordeon 
+121 4 2 2000’s Piano  |Legacy/Piano 
+121 13 80 2VCO Planet Lead  |Factory/Synth Solo 
+121 17 21 3 Voices Musette  |Factory/Akkordeon 
+121 5 38 30303 Bass  |Legacy/Bass 
+121 6 38 30303 Square  |Legacy/Bass 
+121 44 27 33X B DI DNC  |Factory/Gitarre 
+121 29 28 33X B DI Mute  |Factory/Gitarre 
+121 17 30 33X B Dst DNC  |Factory/Gitarre 
+121 18 30 33X B Dst Mute  |Factory/Gitarre 
+121 19 33 5StringsBass RX  |Factory/Bass 
+121 21 28 5th Mute Gtr  |Factory/Gitarre 
+121 40 16 60’s Organ  |Factory/Orgel 
+121 28 24 7Str.GuitarDNC  |Factory/Gitarre 
+121 2 93 80’s Pop Synth  |Factory/Synth Flaeche 
+121 3 2 90’s Piano  |Legacy/Piano 
+121 11 87 A Leadload  |Factory/Synth Solo 
+121 7 52 Aah Choir  |Legacy/Streich. & Chor 
+121 7 107 Ac. Baglama 1  |Factory/Welt 
+121 8 107 Ac. Baglama 2  |Factory/Welt 
+121 9 107 Ac. Baglama Grp.  |Factory/Welt 
+121 1 32 Ac. Bass Buzz  |Legacy/Bass 
+121 9 32 Ac. Jazz Bass  |Factory/Bass 
+121 5 24 Ac.Guitar KeyOff  |Factory/Gitarre 
+121 9 23 Acc. & Acc. Bass  |Factory/Akkordeon 
+121 20 21 Acc. Clarinet NT  |Legacy/Akkordeon 
+121 22 21 Acc. Piccolo NT  |Legacy/Akkordeon 
+121 21 21 Acc. Piccolo OT  |Factory/Akkordeon 
+121 8 23 Acc.16,8,4’ Plus  |Factory/Akkordeon 
+121 4 23 Acc.16,8’ & Bass  |Factory/Akkordeon 
+121 19 21 Acc.Clarinet OT  |Factory/Akkordeon 
+121 6 23 Acc.Voice Change  |Factory/Akkordeon 
+121 24 21 Accordion  |Factory/Akkordeon 
+121 7 23 Accordion 16,4’  |Factory/Akkordeon 
+121 2 23 Accordion 16,8’  |Factory/Akkordeon 
+121 5 23 Accordion Bass  |Factory/Akkordeon 
+121 3 23 Accordion16,8,4’  |Factory/Akkordeon 
+121 3 32 Acous. Bass Pro1  |Factory/Bass 
+121 4 32 Acous. Bass Pro2  |Factory/Bass 
+121 7 32 Acous. Bass RX  |Legacy/Bass 
+121 48 25 Acous.Steel1 DNC  |Factory/Gitarre 
+121 49 25 Acous.Steel2 DNC  |Factory/Gitarre 
+121 14 32 Acoustic Bass 1  |Factory/Bass 
+121 8 32 Acoustic Bass 2  |Factory/Bass 
+121 5 96 Aerosonic  |Factory/Synth Flaeche 
+121 1 97 Air Clouds  |Factory/Synth Flaeche 
+121 3 53 Airways  |Legacy/Streich. & Chor 
+121 2 21 Akordeon  |Legacy/Akkordeon 
+121 17 56 Alp Trumpet  |Factory/Blech Solo 
+121 6 58 Alp Tuba  |Factory/Blech Solo 
+121 10 65 Alto Sax  |Factory/Sax 
+121 12 65 Alto Sax 1 DNC  |Factory/Sax 
+121 17 65 Alto Sax 2 DNC  |Factory/Sax 
+121 23 65 Alto Sax DN1  |Factory/Sax 
+121 9 65 Alto Sax Expr.  |Factory/Sax 
+121 4 65 Alto Sax Growl  |Legacy/Sax 
+121 8 65 Alto Sax Pro  |Factory/Sax 
+121 7 80 Analog Lead  |Factory/Synth Solo 
+121 8 89 Analog Pad 1  |Factory/Synth Flaeche 
+121 9 89 Analog Pad 2  |Factory/Synth Flaeche 
+121 10 89 Analog Pad 3  |Factory/Synth Flaeche 
+121 5 50 Analog Strings 1  |Factory/Streich. & Chor 
+121 2 50 Analog Strings 2  |Legacy/Streich. & Chor 
+121 3 50 Analog Velve  |Legacy/Streich. & Chor 
+121 12 16 Arabian Organ  |Legacy/Orgel 
+121 10 21 Arabic Accordion  |Legacy/Akkordeon 
+121 13 48 Arabic Strings  |Legacy/Streich. & Chor 
+121 7 48 Arco Strings  |Legacy/Streich. & Chor 
+121 2 88 Arp Angeles  |Factory/Synth Solo 
+121 6 84 Arp Twins  |Legacy/Synth Solo 
+121 1 95 Astral Dream  |Legacy/Synth Flaeche 
+121 15 91 Atmoschoir Pad  |Factory/Synth Flaeche 
+121 8 61 Attack Brass  |Legacy/Blech Ensemb. 
+121 14 38 Auto Pilot 1  |Legacy/Synth Solo 
+121 13 39 Auto Pilot 2  |Legacy/Bass 
+121 10 39 Autofilter Bass  |Legacy/Bass 
+121 6 12 Balaphon  |Factory/Mallet & Bells 
+121 2 112 Bali Gamelan  |Legacy/Welt 
+121 18 49 Ballad Strings  |Factory/Streich. & Chor 
+121 17 49 Ballad Strs. DNC  |Factory/Streich. &
+Chor
+121 41 61 Ballade Brass  |Factory/Blech 
+Ensemb. 
+121 8 73 Bambu Flute  |Legacy/Holzblaeser 
+121 3 102 Band Passed  |Legacy/Synth Solo 
+121 46 25 Bandolim  |Factory/Gitarre 
+121 4 105 Banjo  |Factory/Welt 
+121 7 105 Banjo Fin/Th.DNC  |Factory/Welt 
+121 1 105 Banjo Key Off  |Factory/Welt 
+121 6 105 Banjo Thumb DNC  |Factory/Welt 
+121 1 67 Baritone Growl  |Factory/Sax 
+121 4 67 Baritone Sax  |Factory/Sax 
+121 6 67 Baritone Sax DN1  |Factory/Sax 
+121 5 67 Baritone Sax DNC  |Factory/Sax 
+121 3 67 Baritone Sax Pro  |Factory/Sax 
+121 18 39 Basic Saw Bass  |Factory/Bass 
+121 4 34 Bass & Guitar  |Legacy/Bass 
+121 6 32 Bass & Ride 1  |Factory/Bass 
+121 2 32 Bass & Ride 2  |Factory/Bass 
+121 5 34 Bass Mute  |Factory/Bass 
+121 12 87 Bass Phat Saw  |Factory/Synth Solo 
+121 7 38 Bass Square  |Legacy/Bass 
+121 6 34 Bass&Gtr Double  |Factory/Bass 
+121 1 70 Bassoon  |Factory/Holzblaeser 
+121 2 70 Bassoon DNC  |Factory/Holzblaeser 
+121 9 56 BeBop Cornet  |Legacy/Blech Solo 
+121 7 98 Bell Choir  |Legacy/Synth Flaeche 
+121 23 4 Bell E. Piano 1  |Factory/E. Piano 
+121 24 4 Bell E. Piano 2  |Factory/E. Piano 
+121 6 98 Bell Pad  |Factory/Synth Flaeche 
+121 32 4 Bell Tine EP  |Factory/E. Piano 
+121 3 14 Bells  |Factory/Mallet & Bells 
+121 1 99 Bengione  |Factory/Synth Flaeche 
+121 2 106 Berimbau DNC  |Factory/Welt 
+121 1 106 Berimbau Rel.DNC  |Factory/Welt 
+121 8 87 Big & Raw  |Factory/Synth Solo 
+121 32 61 Big Band Brass 1  |Factory/Blech Ensemb. 
+121 4 61 Big Band Brass 2  |Factory/Blech Ensemb. 
+121 33 61 Big BandShake Y+  |Legacy/Blech Ensemb. 
+121 4 63 Big Panner  |Factory/Synth Flaeche 
+121 12 90 Big Sweep Stab  |Factory/Synth Flaeche 
+121 30 16 Big Theatre Org.  |Factory/Orgel 
+121 1 92 Blender  |Factory/Synth Flaeche 
+121 12 38 Blind As A Bat  |Legacy/Bass 
+121 1 76 Blown Bottle  |Factory/Holzblaeser 
+121 5 104 Bouzouki  |Factory/Welt 
+121 16 61 Brass & Sax  |Factory/Blech Ensemb. 
+121 15 61 Brass Expr.  |Legacy/Blech Ensemb. 
+121 26 61 Brass Fall  |Factory/Blech 
+Ensemb. 
+121 25 61 Brass Hit  |Factory/Blech 
+Ensemb. 
+121 4 55 Brass Impact  |Factory/Blech Ensemb. 
+121 30 61 Brass of Power  |Factory/Blech 
+Ensemb. 
+121 3 63 Brass Pad  |Legacy/Blech Ensemb. 
+121 31 61 Brass Section  |Factory/Blech 
+Ensemb. 
+121 18 61 Brass Slow  |Legacy/Blech Ensemb. 
+121 9 24 Brazilian Guitar  |Legacy/Gitarre 
+121 1 65 Breathy Alto 1  |Legacy/Sax 
+121 3 65 Breathy Alto 2  |Legacy/Sax 
+121 2 67 Breathy Baritone  |Legacy/Sax 
+121 3 66 Breathy Tenor  |Legacy/Sax 
+121 2 78 Breathy Whistle  |Factory/Holzblaeser 
+121 5 84 Brian Sync  |Legacy/Synth Solo 
+121 9 33 Bright Finger B.  |Factory/Bass 
+121 5 1 Bright Piano  |Legacy/Piano 
+121 14 87 Bros Buzz Y+  |Factory/Synth Solo 
+121 6 16 BX3 Full V.  |Factory/Orgel 
+121 37 16 BX3 Gospel  |Factory/Orgel 
+121 21 16 BX3 Gospel V.  |Factory/Orgel 
+121 9 18 BX3 Jazz Pc. V.  |Factory/Orgel 
+121 20 16 BX3 Jazz V.  |Factory/Orgel 
+121 14 18 BX3 Rock 1  |Factory/Orgel 
+121 10 16 BX3 Rock 1 V.  |Factory/Orgel 
+121 15 18 BX3 Rock 2  |Factory/Orgel 
+121 1 18 BX3 Rock 2 V.  |Factory/Orgel 
+121 16 18 BX3 Rock 3  |Factory/Orgel 
+121 5 18 BX3 Rock 3 V.  |Factory/Orgel 
+121 17 18 BX3 Rock 4  |Factory/Orgel 
+121 12 18 BX3 Rock 4 V.  |Factory/Orgel 
+121 7 17 BX3 Short Decay  |Legacy/Orgel 
+121 2 96 Caribbean  |Factory/Synth Solo 
+121 9 21 Cassotto  |Factory/Akkordeon 
+121 12 21 Cassotto 16’  |Factory/Akkordeon 
+121 30 21 Cassotto 16’ DNC  |Factory/Akkordeon 
+121 14 21 Cassotto NorTune  |Legacy/Akkordeon 
+121 13 21 Cassotto Or.Tune  |Factory/Akkordeon 
+121 9 87 Cat Lead  |Legacy/Synth Solo 
+121 23 24 Cavaquinho 1  |Factory/Welt 
+121 24 24 Cavaquinho 2  |Factory/Welt 
+121 1 8 Celesta  |Factory/Mallet & Bells 
+121 1 42 Cello  |Factory/Streich. &
+Chor 
+121 12 48 Chamber Strings  |Factory/Streich. & Chor 
+121 1 83 Chiff Touch Pad  |Factory/Synth Flaeche 
+121 28 52 Choir & Scat  |Factory/Streich. &
+Chor
+121 12 52 Choir Light  |Legacy/Streich. & Chor 
+121 13 91 Choir-Sequence  |Factory/Synth Flaeche 
+121 8 33 Chorus Fing.Bass  |Factory/Bass 
+121 34 27 Chorus Gtr DNC  |Factory/Gitarre 
+121 18 27 Chorus Gtr Pro  |Factory/Gitarre 
+121 3 27 Chorus Guitar  |Legacy/Gitarre 
+121 5 2 Chorus Piano  |Legacy/Piano 
+121 4 37 Chorus Slap Bass  |Legacy/Bass 
+121 4 19 Church Pipes  |Factory/Orgel 
+121 5 95 Cinema Pad  |Factory/Synth Flaeche 
+121 25 48 Cinematic Ens.  |Factory/Streich. &
+Chor
+121 17 71 Clar & Sax Ens 1  |Factory/Holzblaeser 
+121 18 71 Clar & Sax Ens 2  |Factory/Holzblaeser 
+121 13 71 Clarinet 1 DNC  |Factory/Holzblaeser 
+121 19 71 Clarinet 2 DNC  |Factory/Holzblaeser 
+121 20 71 Clarinet 3 DNC  |Factory/Holzblaeser 
+121 5 71 Clarinet Ens.  |Factory/Holzblaeser 
+121 2 71 Clarinet G  |Factory/Welt 
+121 8 71 Clarinet Pro 1  |Factory/Holzblaeser 
+121 9 71 Clarinet Pro 2  |Factory/Holzblaeser 
+121 1 43 Class.Contrabs  |Factory/Streich. &
+Chor 
+121 4 18 Classic Click  |Legacy/Orgel 
+121 7 5 Classic Dig. EP  |Legacy/E. Piano 
+121 2 46 Classic Harp  |Factory/Streich. & Chor 
+121 3 60 Classic Horns  |Factory/Blech 
+Ensemb. 
+121 29 21 Classic Musette  |Factory/Akkordeon 
+121 2 68 Classic Oboe  |Factory/Holzblaeser 
+121 4 0 Classic Piano  |Factory/Piano 
+121 45 4 Classic Tine EP  |Factory/E. Piano 
+121 9 5 Classic Tines  |Factory/E. Piano 
+121 4 54 Classic Vox  |Legacy/Streich. & Chor 
+121 17 4 Classic Wurly 1  |Factory/E. Piano 
+121 12 4 Classic Wurly 2  |Factory/E. Piano 
+121 38 25 Classic12Str DNC  |Factory/Gitarre 
+121 37 25 Classic12Str Pro  |Factory/Gitarre 
+121 39 25 Classic12Strings  |Factory/Gitarre 
+121 7 7 ClassicClav1 DNC  |Factory/Piano 
+121 8 7 ClassicClav2 DNC  |Factory/Piano 
+121 36 25 ClassicSteel DNC  |Factory/Gitarre 
+121 14 40 ClassicViolinDN1  |Factory/Streich. &
+Chor
+121 13 40 ClassicViolinDN2  |Factory/Streich. &
+Chor
+121 5 7 Clav  |Factory/Piano 
+121 3 7 Clav Snap  |Legacy/Piano 
+121 2 7 Clav Wah  |Factory/Piano 
+121 8 28 Clean Funk  |Legacy/Gitarre 
+121 10 28 Clean Funk RX1  |Factory/Gitarre 
+121 36 27 Clean Funk RX2  |Legacy/Gitarre 
+121 11 28 Clean Funk RX3  |Legacy/Gitarre 
+121 13 27 Clean Gtr Pro 1  |Factory/Gitarre 
+121 15 27 Clean Gtr Pro 2  |Factory/Gitarre 
+121 20 27 Clean Guitar 1  |Factory/Gitarre 
+121 25 27 Clean Guitar 2  |Legacy/Gitarre 
+121 14 28 Clean Guitar RX1  |Legacy/Gitarre 
+121 15 28 Clean Guitar RX2  |Legacy/Gitarre 
+121 16 28 Clean Guitar RX3  |Legacy/Gitarre 
+121 17 28 Clean Guitar RX4  |Legacy/Gitarre 
+121 18 28 Clean Guitar RX5  |Legacy/Gitarre 
+121 20 28 Clean Guitar RX6  |Legacy/Gitarre 
+121 23 27 Clean Jazz 1  |Factory/Gitarre 
+121 22 27 Clean Jazz 2  |Factory/Gitarre 
+121 6 28 Clean Mute Gtr  |Factory/Gitarre 
+121 7 54 Closed Mouth  |Factory/Streich. & Chor 
+121 11 4 Club E. Piano  |Factory/E. Piano 
+121 2 26 Club Jazz Gtr 1  |Factory/Gitarre 
+121 3 26 Club Jazz Gtr 2  |Legacy/Gitarre 
+121 12 40 Conc. Violin DN1  |Factory/Streich. &
+Chor
+121 6 40 Conc.Violin DNC  |Factory/Streich. &
+Chor 
+121 22 24 Concert 12 Str  |Factory/Gitarre 
+121 13 0 Concert Grand  |Factory/Piano 
+121 20 24 Concert Gtr DNC  |Factory/Gitarre 
+121 21 24 Concert Gtr Pro  |Factory/Gitarre 
+121 20 56 Concert Trp. Pro  |Factory/Blech Solo 
+121 19 56 Concert Trumpet  |Factory/Blech Solo 
+121 15 73 ConcertFlute DN1  |Factory/Holzblaeser 
+121 16 73 ConcertFlute DN2  |Factory/Holzblaeser 
+121 11 49 ConcertStrings 1  |Factory/Streich. & Chor 
+121 23 48 ConcertStrings 2  |Factory/Streich. & Chor 
+121 3 68 Cool Oboe  |Factory/Holzblaeser 
+121 11 65 Cool Sax Ens.  |Factory/Sax 
+121 21 56 Cornet Expr.  |Factory/Blech Solo 
+121 31 56 Cornet Legato  |Factory/Blech Solo 
+121 22 56 Cornet Pro 1  |Factory/Blech Solo 
+121 23 56 Cornet Pro 2  |Factory/Blech Solo 
+121 1 93 Cosmic  |Factory/Synth Solo 
+121 11 27 Country Nu  |Legacy/Gitarre 
+121 1 86 Crimson 5ths  |Legacy/Synth Flaeche 
+121 6 90 Cross Sweep  |Factory/Synth Flaeche 
+121 3 29 Crunch Gtr DNC  |Factory/Gitarre 
+121 9 59 Cup Muted DN2  |Factory/Blech Solo 
+121 2 85 Cyber Choir  |Legacy/Streich. & Chor 
+121 21 52 Cycle Scat 1  |Factory/Streich. & Chor 
+121 22 52 Cycle Scat 2  |Factory/Streich. & Chor 
+121 8 96 Cycle Seq. 1  |Factory/Synth Solo 
+121 9 96 Cycle Seq. 2  |Factory/Synth Solo 
+121 27 52 DaDiDuLaPaTu  |Factory/Streich. &
+Chor
+121 26 52 DaDiPaTu & Bass  |Factory/Streich. &
+Chor
+121 4 80 Dance Lead  |Factory/Synth Solo 
+121 10 91 Dance ReMix  |Legacy/Synth Flaeche 
+121 13 89 Dark Anna  |Factory/Synth Flaeche 
+121 7 36 Dark Bs&Slap DN1  |Factory/Bass 
+121 20 33 Dark E.Bass 1  |Factory/Bass 
+121 24 33 Dark E.Bass 2  |Legacy/Bass 
+121 22 33 Dark E.Bass DNC  |Factory/Bass 
+121 3 95 Dark Element  |Factory/Synth Solo 
+121 7 16 Dark Organ 1  |Legacy/Orgel 
+121 5 16 Dark Organ 2  |Legacy/Orgel 
+121 6 89 Dark Pad  |Factory/Synth Flaeche 
+121 4 35 Dark R&B Bass1  |Legacy/Bass 
+121 5 35 Dark R&B Bass2  |Legacy/Bass 
+121 5 32 DarkWoody A.Bass  |Legacy/Bass 
+121 10 84 Deep Modul. DNC  |Legacy/Synth Solo 
+121 4 127 Deep Noise  |Factory/Synth Flaeche 
+121 15 21 Detune Accordion  |Legacy/Akkordeon 
+121 11 38 Digi Bass 1  |Factory/Bass 
+121 10 38 Digi Bass 2  |Factory/Bass 
+121 9 38 Digi Bass 3  |Factory/Bass 
+121 4 98 Digi Bell  |Legacy/Mallet & Bells 
+121 14 5 Digi E. Piano  |Factory/E. Piano 
+121 2 101 Digi Ice Pad  |Factory/Synth Flaeche 
+121 7 90 Digital PolySix  |Factory/Synth Solo 
+121 3 18 Dirty B  |Legacy/Orgel 
+121 7 18 Dirty JazzOrgan  |Legacy/Orgel 
+121 16 39 Disclosure Bass  |Factory/Bass 
+121 16 30 Dist. Gtr 1 DNC  |Factory/Gitarre 
+121 14 30 Dist. Gtr 2 DNC  |Factory/Gitarre 
+121 13 30 Dist. Gtr 3 DNC  |Factory/Gitarre 
+121 11 30 Dist. Guitar  |Factory/Gitarre 
+121 9 30 Dist. Guitar RX1  |Factory/Gitarre 
+121 10 30 Dist. Guitar RX2  |Factory/Gitarre 
+121 12 30 Dist. Steel Gtr  |Legacy/Gitarre 
+121 30 4 Dist. Tine EP  |Factory/E. Piano 
+121 9 28 Disto Mute  |Legacy/Gitarre 
+121 2 53 Doolally  |Legacy/Streich. & Chor 
+121 24 61 Double Brass  |Legacy/Blech Ensemb. 
+121 1 68 Double Reed  |Factory/Holzblaeser 
+121 3 45 Double Strings  |Legacy/Streich. & Chor 
+121 9 95 Double Sweep  |Legacy/Synth Flaeche 
+121 16 38 Dr. Octave  |Legacy/Bass 
+121 127 16 DRAWBARS  |Factory/Orgel 
+121 18 16 Drawbars Fast V.  |Factory/Orgel 
+121 14 16 Drawbars Organ  |Factory/Orgel 
+121 19 16 Drawbars Slow V.  |Factory/Orgel 
+121 5 54 Dream Voice  |Legacy/Streich. & Chor 
+121 3 99 Dreaming Coil  |Factory/Synth Flaeche 
+121 17 38 Drive Bass  |Legacy/Bass 
+121 4 93 Dronas Pad  |Factory/Synth Flaeche 
+121 6 56 Dual Trumpets  |Factory/Blech Solo 
+121 11 5 DW8000 EP  |Factory/E. Piano 
+121 2 37 Dyna Bass  |Legacy/Bass 
+121 14 61 Dyna Brass 1  |Factory/Blech Ensemb. 
+121 22 61 Dyna Brass 2  |Legacy/Blech Ensemb. 
+121 3 58 Dynabone  |Legacy/Blech Solo 
+121 3 37 DynaSlapBass RX  |Legacy/Bass 
+121 10 4 Dyno Tine EP 1  |Factory/E. Piano 
+121 22 4 Dyno Tine EP 2  |Factory/E. Piano 
+121 10 2 E. Grand Phaser  |Factory/Piano 
+121 12 2 E. Grand Piano  |Factory/Piano 
+121 1 94 E. Piano Halo  |Factory/E. Piano 
+121 35 4 E. Piano Noise  |Factory/E. Piano 
+121 37 27 E.Gtr Amp DNC  |Factory/Gitarre 
+121 35 27 E.Gtr Ch/Dly DNC  |Factory/Gitarre 
+121 2 31 E.Gtr Harmonics  |Legacy/Gitarre 
+121 8 99 Eastern Depths  |Legacy/Synth Flaeche 
+121 7 97 Elastick Pad  |Legacy/Synth Flaeche 
+121 4 62 Electrik Brass  |Factory/Blech 
+Ensemb. 
+121 2 87 Electro Lead  |Factory/Synth Solo 
+121 1 69 English Horn  |Legacy/Holzblaeser 
+121 11 48 Ensemble & Solo  |Factory/Streich. &
+Chor 
+121 25 4 EP+Damper 1  |Factory/E. Piano 
+121 26 4 EP+Damper 2  |Factory/E. Piano 
+121 28 48 Epic Soundtrack  |Factory/Streich. & Chor 
+121 1 85 Ether Voices  |Legacy/Streich. & Chor 
+121 7 58 Euphonium  |Factory/Blech Solo 
+121 4 39 Euro Bass  |Legacy/Bass 
+121 4 88 Evolving Pad  |Factory/Synth Flaeche 
+121 5 87 Express. Lead  |Factory/Synth Solo 
+121 17 39 Fancy Bass  |Factory/Bass 
+121 19 61 Fanfare  |Legacy/Blech Ensemb. 
+121 14 91 Far Memories  |Factory/Synth Flaeche 
+121 5 88 Far Muted Atmos.  |Factory/Synth Flaeche 
+121 11 90 Farluce  |Legacy/Synth Flaeche 
+121 20 81 Fast Glide Saw  |Factory/Synth Solo 
+121 13 61 Fat Brass  |Factory/Blech 
+Ensemb. 
+121 15 87 Fat Synth  |Factory/Synth Solo 
+121 19 87 FatSynth OctSub  |Factory/Synth Solo 
+121 15 52 Femal Scat  |Legacy/Streich. & Chor 
+121 14 52 Femal&Male Scat  |Legacy/Streich. & Chor 
+121 1 110 Fiddle  |Factory/Welt 
+121 17 61 Film Brass  |Legacy/Blech Ensemb. 
+121 16 33 Finger Bass DN1  |Factory/Bass 
+121 7 33 Finger E.Bass 1  |Factory/Bass 
+121 4 33 Finger E.Bass 2  |Factory/Bass 
+121 2 33 Finger E.Bass 3  |Factory/Bass 
+121 3 33 Finger E.Bass 4  |Factory/Bass 
+121 6 33 Finger E.Bass 5  |Factory/Bass 
+121 15 33 Finger E.Bass 6  |Factory/Bass 
+121 7 25 Finger Key Off  |Legacy/Gitarre 
+121 12 33 Finger Slap  |Factory/Bass 
+121 8 25 Finger Tips  |Legacy/Gitarre 
+121 14 33 FingerB.& Guitar  |Factory/Bass 
+121 10 33 FingerE.Bass1 RX  |Factory/Bass 
+121 13 33 FingerE.Bass2 RX  |Legacy/Bass 
+121 21 33 FingerE.Bass3 RX  |Factory/Bass 
+121 10 81 Fire Wave  |Factory/Synth Solo 
+121 24 52 Firemen Choir  |Factory/Streich. &
+Chor
+121 7 21 Fisa 16,4’  |Factory/Akkordeon 
+121 6 21 Fisa 16,8’  |Factory/Akkordeon 
+121 8 21 Fisa Master  |Factory/Akkordeon 
+121 1 23 Fisa Tango  |Factory/Akkordeon 
+121 3 20 Flauto Pipes  |Legacy/Orgel 
+121 7 55 Flip Blip  |Legacy/Synth Solo 
+121 7 56 Flugel Horn  |Legacy/Blech Solo 
+121 13 56 Flugel Horn Pro  |Factory/Blech Solo 
+121 9 73 Flute  |Legacy/Holzblaeser 
+121 11 73 Flute DNC  |Factory/Holzblaeser 
+121 3 73 Flute Dyn. 5th  |Factory/Holzblaeser 
+121 4 73 Flute Frullato  |Factory/Holzblaeser 
+121 6 73 Flute Muted  |Factory/Blech Ensemb. 
+121 2 73 Flute Switch  |Factory/Holzblaeser 
+121 15 5 FM Pad EP  |Factory/E. Piano 
+121 16 5 FM Stack EP  |Legacy/E. Piano 
+121 7 71 Folk Clarinet  |Legacy/Holzblaeser 
+121 5 66 Folk Sax  |Legacy/Sax 
+121 7 89 Freedom Pad  |Legacy/Synth Flaeche 
+121 9 60 French Horn  |Factory/Blech Solo 
+121 10 60 French Horns  |Factory/Blech Solo 
+121 18 21 French Musette  |Factory/Akkordeon 
+121 2 60 French Section  |Factory/Blech 
+Ensemb. 
+121 2 91 Fresh Air 1  |Factory/Synth Flaeche 
+121 11 91 Fresh Air 2  |Factory/Synth Flaeche 
+121 7 91 Fresh Breath  |Legacy/Streich. & Chor 
+121 1 35 Fretless Bass 1  |Factory/Bass 
+121 2 35 Fretless Bass 2  |Factory/Bass 
+121 7 35 Fretless Bass 3  |Legacy/Bass 
+121 11 35 Fretless Bs DN1  |Factory/Bass 
+121 10 35 FretlessVib.DN1  |Factory/Bass 
+121 14 34 FS Pick BsDN1  |Factory/Bass 
+121 15 34 FS Pick BsDN2  |Factory/Bass 
+121 25 52 Full Choir  |Factory/Streich. &
+Chor
+121 5 19 Full Pipes  |Factory/Orgel 
+121 2 49 Full Strings  |Factory/Streich. & Chor 
+121 9 91 Full Vox Pad  |Legacy/Streich. & Chor 
+121 12 28 Funk Stein RX1  |Factory/Gitarre 
+121 13 28 Funk Stein RX2  |Legacy/Gitarre 
+121 3 36 FunkSlapBass RX  |Legacy/Bass 
+121 12 27 Funky Wah RX  |Legacy/Gitarre 
+121 5 91 Future Pad  |Factory/Synth Flaeche 
+121 8 2 G.Piano Stack 1  |Factory/Piano 
+121 9 2 G.Piano Stack 2  |Factory/Piano 
+121 1 112 Gamelan  |Factory/Welt 
+121 3 112 Garbage Mall  |Factory/Welt 
+121 6 61 Glenn & Boys  |Factory/Blech Ensemb. 
+121 3 61 Glenn & Friends  |Factory/Blech 
+Ensemb. 
+121 9 81 Glide Lead  |Factory/Synth Solo 
+121 9 80 Gliding Square  |Factory/Synth Solo 
+121 2 9 Glockenspiel  |Factory/Mallet & Bells 
+121 38 16 Gospel Organ 1  |Factory/Orgel 
+121 9 16 Gospel Organ 2  |Legacy/Orgel 
+121 13 16 Gospel Organ V.  |Factory/Orgel 
+121 7 2 Grand & FM Stack  |Legacy/Piano 
+121 7 0 Grand & Strings  |Factory/Piano 
+121 11 52 Grand Choir  |Legacy/Streich. & Chor 
+121 3 0 Grand Piano  |Factory/Piano 
+121 11 0 Grand Piano Demo  |Legacy/Piano 
+121 9 0 Grand&MovingPad  |Factory/Piano 
+121 7 24 Guitar & Strings  |Legacy/Gitarre 
+121 8 27 Guitarish  |Legacy/Gitarre 
+121 6 25 Hackbrett  |Factory/Welt 
+121 3 57 Hard Trombone  |Factory/Blech Solo 
+121 14 4 Hard Wurly  |Legacy/E. Piano 
+121 24 57 HardTrombone DN1  |Factory/Blech Solo 
+121 25 57 HardTrombone DN2  |Factory/Blech Solo 
+121 19 57 HardTrombone DNC  |Factory/Blech Solo 
+121 2 22 Harmonica  |Factory/Akkordeon 
+121 11 22 Harmonica 1 DN1  |Factory/Akkordeon 
+121 12 22 Harmonica 1 DN2  |Factory/Akkordeon 
+121 5 22 Harmonica 1 DNC  |Factory/Akkordeon 
+121 13 22 Harmonica 2 DN1  |Factory/Akkordeon 
+121 9 22 Harmonica 2 DNC  |Factory/Akkordeon 
+121 14 22 Harmonica 3 DN1  |Factory/Akkordeon 
+121 10 22 Harmonica 3 DNC  |Factory/Akkordeon 
+121 3 22 Harmonica AT 1  |Factory/Akkordeon 
+121 4 22 Harmonica AT 2  |Factory/Akkordeon 
+121 5 6 Harpsi 16’  |Legacy/Piano 
+121 4 6 Harpsi Korg  |Legacy/Piano 
+121 7 6 Harpsichord 1  |Factory/Piano 
+121 6 6 Harpsichord 2  |Factory/Piano 
+121 8 6 Harpsichord 8+4’  |Factory/Piano 
+121 3 91 Heaven  |Legacy/Streich. & Chor 
+121 2 111 Hichiriki  |Factory/Welt 
+121 3 109 HighlandBagPipes  |Factory/Welt 
+121 6 87 HipHop Lead  |Factory/Synth Solo 
+121 5 55 Hit in India  |Legacy/Welt 
+121 13 53 Hmm Choir  |Factory/Streich. &
+Chor
+121 2 3 Honky-Tonk  |Factory/Piano 
+121 4 60 Horns & Ensemble  |Factory/Blech 
+Ensemb. 
+121 38 61 Horns Swell1 DNC  |Factory/Blech 
+Ensemb. 
+121 39 61 Horns Swell2 DNC  |Factory/Blech 
+Ensemb. 
+121 15 38 Hybrid Bass  |Legacy/Bass 
+121 8 5 Hybrid EP  |Legacy/E. Piano 
+121 5 48 i3 Strings  |Legacy/Streich. & Chor 
+121 4 104 Indian Frets  |Factory/Welt 
+121 3 104 Indian Stars  |Legacy/Welt 
+121 3 105 Jaw Harp  |Factory/Welt 
+121 1 71 Jazz Clarinet  |Factory/Holzblaeser 
+121 32 56 Jazz Cornet DN1  |Factory/Blech Solo 
+121 36 56 Jazz Cornet DN2  |Factory/Blech Solo 
+121 10 73 Jazz Flute  |Factory/Holzblaeser 
+121 13 73 Jazz Flute 1 DNC  |Factory/Holzblaeser 
+121 14 73 Jazz Flute 2 DNC  |Factory/Holzblaeser 
+121 1 73 Jazz Flute Expr.  |Factory/Holzblaeser 
+121 8 26 Jazz Gtr 1 DNC  |Factory/Gitarre 
+121 7 26 Jazz Gtr 2 DNC  |Factory/Gitarre 
+121 6 22 Jazz Harm. DNC  |Factory/Akkordeon 
+121 8 16 Jazz Organ  |Factory/Orgel 
+121 5 0 Jazz Piano  |Factory/Piano 
+121 13 65 Jazz Sax 1 DNC  |Factory/Sax 
+121 14 65 Jazz Sax 2 DNC  |Factory/Sax 
+121 16 65 Jazz Sax 3 DNC  |Factory/Sax 
+121 20 65 Jazz Sax DN1  |Factory/Sax 
+121 21 65 Jazz Sax DN2  |Factory/Sax 
+121 9 66 Jazz Tenor Sax 1  |Factory/Sax 
+121 10 66 Jazz Tenor Sax 2  |Factory/Sax 
+121 15 57 Jazz Trb. 1 DNC  |Factory/Blech Solo 
+121 14 57 Jazz Trb. 2 DNC  |Factory/Blech Solo 
+121 18 57 Jazz Trb. 3 DNC  |Factory/Blech Solo 
+121 20 57 Jazz Trb. DN1  |Factory/Blech Solo 
+121 21 57 Jazz Trb. DN2  |Factory/Blech Solo 
+121 33 56 Jazz Trumpet DN1  |Factory/Blech Solo 
+121 34 56 Jazz Trumpet DN2  |Factory/Blech Solo 
+121 22 71 JazzClarinet DN1  |Legacy/Holzblaeser 
+121 15 71 JazzClarinet DNC  |Factory/Holzblaeser 
+121 25 56 JazzCornet 1 DNC  |Factory/Blech Solo 
+121 29 56 JazzCornet 2 DNC  |Factory/Blech Solo 
+121 6 26 JazzGtr SlidePro  |Factory/Gitarre 
+121 24 56 JazzTrumpet1 DNC  |Factory/Blech Solo 
+121 27 56 JazzTrumpet2 DNC  |Factory/Blech Solo 
+121 28 56 JazzTrumpet3 DNC  |Factory/Blech Solo 
+121 30 56 JazzTrumpet4 DNC  |Factory/Blech Solo 
+121 35 56 JazzTrumpet5 DNC  |Factory/Blech Solo 
+121 32 33 JB Fing.Slap Bs  |Factory/Bass 
+121 29 33 JB Finger BsDN1  |Factory/Bass 
+121 30 33 JB Finger BsDN2  |Factory/Bass 
+121 18 34 JB Pick Bs DN1  |Factory/Bass 
+121 19 34 JB Pick Bs DN2  |Factory/Bass 
+121 8 36 JB Slap Bass  |Factory/Bass 
+121 13 18 Jimmy Organ  |Factory/Orgel 
+121 10 18 Jimmy Organ V.  |Factory/Orgel 
+121 3 30 Joystick Gtr Y-  |Legacy/Gitarre 
+121 13 38 Jungle Bass  |Legacy/Bass 
+121 5 39 Jungle Reso.  |Legacy/Bass 
+121 3 88 Jurassic Pad  |Factory/Synth Flaeche 
+121 11 84 Justified  |Legacy/Synth Solo 
+121 2 108 Kalimba 1  |Factory/Mallet & Bells 
+121 1 108 Kalimba 2  |Factory/Mallet & Bells 
+121 5 107 Kanoun 1  |Factory/Welt 
+121 2 107 Kanoun 2  |Factory/Welt 
+121 4 107 Kanoun Mix  |Factory/Welt 
+121 6 107 Kanoun Trem. 1  |Factory/Welt 
+121 3 107 Kanoun Trem. 2  |Factory/Welt 
+121 1 75 Kawala  |Factory/Welt 
+121 2 18 Killer B  |Legacy/Orgel 
+121 11 71 Klarnet 1  |Factory/Welt 
+121 12 71 Klarnet 2  |Factory/Welt 
+121 13 90 Korgmatose  |Legacy/Synth Flaeche 
+121 3 98 Krystal Bell  |Legacy/Mallet & Bells 
+121 9 27 L&R E.Guitar 1  |Legacy/Gitarre 
+121 10 27 L&R E.Guitar 2  |Legacy/Gitarre 
+121 8 84 Lab Synth DNC  |Legacy/Synth Solo 
+121 17 73 Latin Flute DN1  |Factory/Holzblaeser 
+121 18 73 Latin Flute DN2  |Factory/Holzblaeser 
+121 4 29 Lead Guitar DNC  |Factory/Gitarre 
+121 4 48 Legato Strings  |Legacy/Streich. & Chor 
+121 20 38 LegatoSynthBass  |Factory/Bass 
+121 42 27 LesP M Cln DNC  |Factory/Gitarre 
+121 26 28 LesP M Cln Mute  |Factory/Gitarre 
+121 43 27 LesP M DI DNC  |Factory/Gitarre 
+121 27 28 LesP M DI Mute  |Factory/Gitarre 
+121 23 52 Little Boy Voice  |Factory/Streich. & Chor 
+121 6 1 Live Piano  |Factory/Piano 
+121 7 84 LoFi Ethnic  |Legacy/Synth Solo 
+121 1 100 Lonely Spin  |Legacy/Synth Flaeche 
+121 9 53 Lyrical Choir  |Factory/Streich. & Chor 
+121 5 17 M1 Organ  |Legacy/Orgel 
+121 2 2 M1 Piano  |Legacy/Piano 
+121 16 52 Male Scat  |Legacy/Streich. & Chor 
+121 5 12 Mallet Clock  |Factory/Mallet & Bells 
+121 43 25 Mandolin  |Factory/Welt 
+121 40 25 Mandolin DNC  |Factory/Welt 
+121 26 25 Mandolin Ens. 1  |Factory/Welt 
+121 27 25 Mandolin Ens. 2  |Factory/Welt 
+121 10 25 Mandolin Key Off  |Legacy/Welt 
+121 41 25 Mandolin Orch.1  |Factory/Welt 
+121 42 25 Mandolin Orch.2  |Factory/Welt 
+121 11 25 Mandolin Trem.  |Factory/Welt 
+121 7 12 Marimba  |Factory/Mallet & Bells 
+121 2 12 Marimba Key Off  |Factory/Mallet & Bells 
+121 23 21 Master Accordion  |Factory/Akkordeon 
+121 2 89 Master Pad  |Legacy/Streich. & Chor 
+121 14 90 Matrix 12 Pad  |Factory/Synth Flaeche 
+121 2 95 Meditate  |Factory/Synth Flaeche 
+121 9 90 Mega Synth  |Factory/Synth Solo 
+121 4 95 Mellow Pad  |Legacy/Synth Flaeche 
+121 15 22 Melodica  |Factory/Akkordeon 
+121 8 22 Melodica DNC  |Factory/Akkordeon 
+121 4 84 Metallic Rez  |Factory/Synth Solo 
+121 4 1 Midi Grand & Pad  |Legacy/Piano 
+121 8 35 MM Fretless DNC  |Factory/Bass 
+121 5 89 Money Pad  |Factory/Synth Flaeche 
+121 3 12 Monkey Skuls  |Legacy/Mallet & Bells 
+121 3 56 Mono Trumpet  |Legacy/Blech Solo 
+121 11 39 Monofilter Bass  |Legacy/Bass 
+121 18 81 MonoSaw 2 Oct.  |Factory/Synth Solo 
+121 19 81 MonoSaw 3 Oct.  |Factory/Synth Solo 
+121 17 81 MonoSaw detune  |Factory/Synth Solo 
+121 18 87 Monster & Dist.  |Legacy/Synth Solo 
+121 5 102 Moon Cycles  |Factory/Synth Flaeche 
+121 11 33 More Mid Bass  |Legacy/Bass 
+121 37 61 MorphAttackBrass  |Factory/Blech Ensemb. 
+121 1 96 Motion Ocean  |Factory/Synth Flaeche 
+121 1 101 Motion Raver  |Legacy/Synth Solo 
+121 20 61 Movie Brass  |Factory/Blech 
+Ensemb. 
+121 4 99 Movie Stack 1  |Factory/Synth Flaeche 
+121 5 99 Movie Stack 2  |Factory/Synth Flaeche 
+121 6 99 Movie Stack 3  |Factory/Synth Flaeche 
+121 7 99 Movie Stack 4  |Factory/Synth Flaeche 
+121 7 49 Movie Str.1 DNC  |Factory/Streich. &
+Chor 
+121 8 49 Movie Str.2 DNC  |Factory/Streich. &
+Chor 
+121 5 49 Movie Strings 1  |Factory/Streich. & Chor 
+121 6 49 Movie Strings 2  |Factory/Streich. & Chor 
+121 5 98 Moving Bell  |Factory/Synth Flaeche 
+121 3 21 Musette 1  |Factory/Akkordeon 
+121 4 21 Musette 2  |Factory/Akkordeon 
+121 5 21 Musette Clar.  |Factory/Akkordeon 
+121 2 10 Music Box  |Factory/Mallet & Bells 
+121 3 59 Mute Ensemble 1  |Factory/Blech 
+Ensemb. 
+121 4 59 Mute Ensemble 2  |Factory/Blech 
+Ensemb. 
+121 5 30 Mute Monster  |Legacy/Gitarre 
+121 5 59 Mute Trumpet  |Factory/Blech Solo 
+121 8 59 Muted Cornet DN1  |Factory/Blech Solo 
+121 19 28 Muted Guitar  |Legacy/Gitarre 
+121 6 59 Muted Trp.1 DN1  |Factory/Blech Solo 
+121 7 59 Muted Trp.2 DN1  |Factory/Blech Solo 
+121 6 96 My Sequencer  |Factory/Synth Flaeche 
+121 6 48 N Strings  |Legacy/Streich. & Chor 
+121 6 39 Nasty Bass  |Legacy/Bass 
+121 43 4 Natural EP  |Factory/E. Piano 
+121 19 24 Natural Nylon  |Factory/Gitarre 
+121 44 4 Natural Wurly  |Factory/E. Piano 
+121 47 25 NaturalSteel DNC  |Factory/Gitarre 
+121 2 72 Nay  |Factory/Welt 
+121 8 55 Netherland Hit  |Legacy/Blech Ensemb. 
+121 7 27 New Stra.Guitar  |Factory/Gitarre 
+121 16 89 Next Analog  |Factory/Synth Flaeche 
+121 13 87 Next Dance DNC  |Factory/Synth Solo 
+121 5 97 Noble Pad  |Legacy/Synth Flaeche 
+121 8 90 Noisy Stabb  |Factory/Synth Solo 
+121 4 24 Nylon Bossa  |Legacy/Gitarre 
+121 8 24 Nylon Gtr Pro1  |Factory/Gitarre 
+121 11 24 Nylon Gtr Pro2  |Factory/Gitarre 
+121 12 24 Nylon Gtr RX1  |Legacy/Gitarre 
+121 13 24 Nylon Gtr RX2  |Legacy/Gitarre 
+121 15 24 Nylon Guitar  |Legacy/Gitarre 
+121 18 24 Nylon GuitarDNC  |Factory/Gitarre 
+121 14 24 Nylon Slide Pro  |Factory/Gitarre 
+121 10 24 Nylon Vel. Harm.  |Legacy/Gitarre 
+121 10 87 OB Lead  |Factory/Synth Solo 
+121 12 89 OB Pad  |Factory/Synth Flaeche 
+121 4 58 Ob.Tuba&E.Bass 1  |Legacy/Blech Solo 
+121 5 58 Ob.Tuba&E.Bass 2  |Legacy/Blech Solo 
+121 1 58 Oberkr. Tuba  |Factory/Blech Solo 
+121 5 68 Oboe 1  |Factory/Holzblaeser 
+121 4 68 Oboe 2  |Factory/Holzblaeser 
+121 1 79 Ocarina  |Factory/Holzblaeser 
+121 9 26 Oct. Jazz Guitar  |Factory/Gitarre 
+121 8 48 Octave Strings  |Factory/Streich. & Chor 
+121 6 81 Octo Lead  |Factory/Synth Solo 
+121 4 50 Odissey  |Legacy/Streich. & Chor 
+121 9 52 Oh-Ah Voices  |Legacy/Streich. & Chor 
+121 8 80 Old & Analog  |Legacy/Synth Solo 
+121 3 80 Old Portamento  |Factory/Synth Solo 
+121 1 77 Old Shakuhachi  |Factory/Welt 
+121 3 17 Old Wheels  |Legacy/Orgel 
+121 6 52 Ooh Choir  |Legacy/Streich. & Chor 
+121 3 52 Ooh Slow Voice  |Legacy/Streich. & Chor 
+121 2 52 Ooh Voices  |Legacy/Streich. & Chor 
+121 16 48 Orch. & Oboe 1  |Factory/Streich. &
+Chor
+121 17 48 Orch. & Oboe 2  |Factory/Streich. &
+Chor 
+121 12 73 Orch. Flute DNC  |Factory/Holzblaeser 
+121 5 73 Orchestra Flute  |Factory/Holzblaeser 
+121 20 48 Orchestra&Flute  |Factory/Streich. &
+Chor
+121 14 48 OrchestraTutti 1  |Factory/Streich. &
+Chor
+121 19 48 OrchestraTutti 2  |Factory/Streich. &
+Chor 
+121 13 17 Org. Synth Pulse  |Factory/Orgel 
+121 36 16 Organ 16+51/3 V.  |Factory/Orgel 
+121 17 16 Organ Hi V.  |Factory/Orgel 
+121 34 16 Organ HiMix1 V.  |Factory/Orgel 
+121 35 16 Organ HiMix2 V.  |Factory/Orgel 
+121 39 16 Organ Low  |Factory/Orgel 
+121 15 16 Organ Low 1 V.  |Factory/Orgel 
+121 4 16 Organ Low 2 V.  |Factory/Orgel 
+121 33 16 Organ Low+1’V.  |Factory/Orgel 
+121 4 17 Organ LowPc V.  |Factory/Orgel 
+121 16 16 Organ Mid V.  |Factory/Orgel 
+121 11 32 Organ Pedal 1  |Legacy/Bass 
+121 10 32 Organ Pedal 2  |Legacy/Bass 
+121 4 101 Organ Stab DNC  |Factory/Synth Flaeche 
+121 1 10 Orgel  |Factory/Mallet & Bells 
+121 5 105 Oud 1  |Factory/Welt 
+121 2 105 Oud 2  |Factory/Welt 
+121 2 75 Pan Flute 1 DNC  |Factory/Holzblaeser 
+121 3 75 Pan Flute 2 DNC  |Factory/Holzblaeser 
+121 5 75 Pan Flute DN1  |Factory/Holzblaeser 
+121 4 75 Pan Flute Y-  |Factory/Holzblaeser 
+121 4 102 Pan Reso  |Legacy/Synth Solo 
+121 9 84 Parallel Trance  |Legacy/Synth Solo 
+121 10 26 Pat Guitar Synth  |Factory/Gitarre 
+121 33 33 PBs Fing.Pop DN1  |Factory/Bass 
+121 34 33 PBs Fing.Pop DN2  |Factory/Bass 
+121 25 33 PBsFing.Vint.DN1  |Factory/Bass 
+121 26 33 PBsFing.Vint.DN2  |Factory/Bass 
+121 4 26 Pedal Steel  |Factory/Gitarre 
+121 10 17 Perc. Organ 1  |Factory/Orgel 
+121 9 17 Perc. Organ 1 V.  |Factory/Orgel 
+121 11 17 Perc. Organ 2 V.  |Factory/Orgel 
+121 8 18 Perc.Short Deca  |Legacy/Orgel 
+121 10 5 Phantom Tine  |Legacy/E. Piano 
+121 7 39 Phat Bass  |Legacy/Bass 
+121 8 81 Phat Saw Lead  |Factory/Synth Solo 
+121 14 39 Phunk Synth Bass  |Legacy/Bass 
+121 6 0 Piano & Vibes  |Factory/Piano 
+121 6 2 Piano Layers  |Legacy/Piano 
+121 2 1 Piano Pad 1  |Legacy/Piano 
+121 3 1 Piano Pad 2  |Legacy/Piano 
+121 6 20 Pianola  |Factory/Orgel 
+121 3 72 Piccolo  |Factory/Holzblaeser 
+121 2 34 Picked E. Bass 1  |Factory/Bass 
+121 1 34 Picked E. Bass 2  |Factory/Bass 
+121 11 34 Picked E. Bass 3  |Factory/Bass 
+121 7 34 Picked E. Bass 4  |Factory/Bass 
+121 8 34 Picked E. Bass 5  |Factory/Bass 
+121 10 34 Picked E.Bass RX  |Legacy/Bass 
+121 13 34 Picked Jazz Bass  |Factory/Bass 
+121 4 20 Pipe Flute 1  |Legacy/Orgel 
+121 5 20 Pipe Flute 2  |Legacy/Orgel 
+121 3 19 Pipe Mixture  |Legacy/Orgel 
+121 6 19 Pipe Tutti 1  |Factory/Orgel 
+121 8 19 Pipe Tutti 2  |Factory/Orgel 
+121 9 19 Pipe Tutti 3  |Factory/Orgel 
+121 10 19 Pipe Tutti 4  |Factory/Orgel 
+121 2 99 Pisco Pad  |Factory/Synth Flaeche 
+121 5 57 Pitch Trombone  |Legacy/Blech Solo 
+121 1 45 Pizz. Ensemble  |Factory/Streich. &
+Chor 
+121 2 45 Pizz. Section  |Factory/Streich. &
+Chor
+121 4 97 Pods In Pad  |Factory/Synth Flaeche 
+121 8 39 Poinker Bass  |Legacy/Bass 
+121 15 81 Polysix  |Factory/Synth Solo 
+121 16 81 Polysix & Sub  |Factory/Synth Solo 
+121 12 0 Pop Grand  |Factory/Piano 
+121 21 25 Pop Steel Gtr 1  |Factory/Gitarre 
+121 22 25 Pop Steel Gtr 2  |Factory/Gitarre 
+121 23 25 Pop Steel Slide  |Legacy/Gitarre 
+121 24 25 Pop SteelGtr RX1  |Legacy/Gitarre 
+121 25 25 Pop SteelGtr RX2  |Legacy/Gitarre 
+121 4 91 Pop Synth Pad 1  |Factory/Synth Flaeche 
+121 12 91 Pop Synth Pad 2  |Factory/Synth Flaeche 
+121 14 0 Pop Upright  |Factory/Piano 
+121 22 65 PopAltoSax DN1  |Factory/Sax 
+121 12 80 Port Whine  |Factory/Synth Solo 
+121 7 19 Positive Organ  |Legacy/Orgel 
+121 29 16 Post Horn Trem.  |Legacy/Orgel 
+121 21 61 Power Brass  |Legacy/Blech Ensemb. 
+121 15 30 Power Chords 1  |Legacy/Gitarre 
+121 4 30 Power Chords 2  |Legacy/Gitarre 
+121 5 81 Power Saw  |Factory/Synth Solo 
+121 3 89 Power Synth  |Factory/Synth Solo 
+121 5 4 Pro Dyno EP  |Legacy/E. Piano 
+121 6 4 Pro Stage EP  |Legacy/E. Piano 
+121 5 27 Processed E.Gtr  |Legacy/Gitarre 
+121 8 53 QueenNight Sopr.  |Factory/Streich. & Chor 
+121 8 4 R&B E. Piano  |Factory/E. Piano 
+121 4 28 R&R Guitar  |Legacy/Gitarre 
+121 3 3 Ragtime Piano  |Factory/Piano 
+121 6 97 Rave  |Factory/Synth Flaeche 
+121 8 91 Ravelian Pad  |Factory/Synth Flaeche 
+121 13 32 Real Ac. Bass 1  |Factory/Bass 
+121 12 32 Real Ac. Bass 2  |Factory/Bass 
+121 27 24 Real Cavaquinho  |Factory/Welt 
+121 2 42 Real Cello  |Factory/Streich. &
+Chor
+121 2 43 Real Contrabass  |Factory/Streich. &
+Chor
+121 50 25 Real Dobro DNC  |Factory/Gitarre 
+121 28 27 Real El. Gtr ST1  |Factory/Gitarre 
+121 29 27 Real El. Gtr ST2  |Factory/Gitarre 
+121 30 27 Real El. Guitar1  |Factory/Gitarre 
+121 31 27 Real El. Guitar2  |Factory/Gitarre 
+121 37 56 Real Flugel DN2  |Factory/Blech Solo 
+121 32 25 Real Folk Gtr  |Factory/Gitarre 
+121 11 60 Real French Horn  |Factory/Blech Solo 
+121 16 49 Real Marcato  |Factory/Streich. &
+Chor
+121 10 59 Real Muted DN2  |Factory/Blech Solo 
+121 17 24 Real Nylon Gtr  |Factory/Gitarre 
+121 4 45 Real Pizzicato  |Factory/Streich. &
+Chor
+121 26 48 Real Quartet 1  |Factory/Streich. &
+Chor
+121 27 48 Real Quartet 2  |Factory/Streich. &
+Chor
+121 15 65 Real Sax Ens.  |Factory/Sax 
+121 14 49 Real Spiccato  |Factory/Streich. & Chor 
+121 15 49 Real Staccato  |Factory/Streich. &
+Chor
+121 31 25 Real Steel Gtr  |Factory/Gitarre 
+121 9 49 Real Strings 1  |Factory/Streich. & Chor 
+121 10 49 Real Strings 2  |Factory/Streich. & Chor 
+121 13 49 Real Strings DNC  |Factory/Streich. & Chor 
+121 2 44 Real Tremolo  |Factory/Streich. &
+Chor
+121 25 24 Real Ukulele  |Factory/Welt 
+121 3 41 Real Viola DN1  |Factory/Streich. &
+Chor
+121 7 40 Real Violin DNC  |Factory/Streich. &
+Chor 
+121 21 71 RealClarinet DN1  |Legacy/Holzblaeser 
+121 14 71 RealClarinet DNC  |Factory/Holzblaeser 
+121 34 25 RealFolk Gtr DNC  |Factory/Gitarre 
+121 29 25 RealFolk GtrST 1  |Factory/Gitarre 
+121 30 25 RealFolk GtrST 2  |Factory/Gitarre 
+121 16 24 RealNylon Gtr ST  |Factory/Gitarre 
+121 28 25 RealSteel Gtr ST  |Factory/Gitarre 
+121 1 74 Recorder 1  |Legacy/Holzblaeser 
+121 2 74 Recorder 2  |Legacy/Holzblaeser 
+121 37 4 Reed EP Clean  |Factory/E. Piano 
+121 11 66 Reed of Power  |Factory/Sax 
+121 10 71 Reeds & Saxes  |Factory/Holzblaeser 
+121 6 95 Reoccuring Astra  |Legacy/Synth Flaeche 
+121 12 39 Reso Bass  |Legacy/Bass 
+121 2 97 Reso Down  |Legacy/Synth Flaeche 
+121 12 25 Reso Guitar  |Legacy/Gitarre 
+121 1 90 Reso Sweep  |Legacy/Synth Solo 
+121 14 81 Reverse Pulse  |Legacy/Synth Solo 
+121 12 84 Revolution  |Factory/Synth Solo 
+121 11 81 Rezbo  |Legacy/Synth Solo 
+121 7 28 Rhythm E.Guitar  |Legacy/Gitarre 
+121 9 99 Rhythmical Synth  |Legacy/Synth Flaeche 
+121 11 96 Rhythmsphere  |Factory/Synth Flaeche 
+121 3 87 Rich Lead  |Factory/Synth Solo 
+121 11 2 Road Piano  |Legacy/Piano 
+121 11 18 Rock Organ 2  |Legacy/Orgel 
+121 8 0 Rock Piano  |Factory/Piano 
+121 8 17 Rotary Organ  |Legacy/Orgel 
+121 10 96 S&H Pad DNC  |Legacy/Synth Flaeche 
+121 4 3 Saloon Piano  |Factory/Piano 
+121 1 15 Santur  |Factory/Mallet & Bells 
+121 5 61 Sax & Brass  |Factory/Blech 
+Ensemb. 
+121 2 121 Sax Breath & Key  |Factory/Sax 
+121 19 65 Sax Ens. Legato  |Factory/Sax 
+121 2 65 Sax Ensemble  |Factory/Sax 
+121 25 65 SaxEns.Leg.Sfz  |Factory/Sax 
+121 17 52 Scat V.& Bass 1  |Legacy/Streich. & Chor 
+121 18 52 Scat V.& Bass 2  |Legacy/Streich. & Chor 
+121 19 52 Scat Voices  |Legacy/Streich. & Chor 
+121 20 52 Scat Voices DNC  |Factory/Streich. &
+Chor 
+121 3 71 Section Winds 1  |Factory/Holzblaeser 
+121 4 71 Section Winds 2  |Factory/Holzblaeser 
+121 7 81 Seq Lead  |Legacy/Synth Solo 
+121 23 61 Sforzato Brass  |Factory/Blech 
+Ensemb. 
+121 2 77 Shakuhachi  |Legacy/Welt 
+121 3 77 Shakuhachi Vel.  |Factory/Holzblaeser 
+121 13 84 Side Distortion  |Factory/Synth Solo 
+121 14 80 Simple Square  |Factory/Synth Solo 
+121 10 80 Sine Switch  |Factory/Synth Solo 
+121 6 80 Sine Wave  |Factory/Synth Solo 
+121 6 27 Single Coil  |Factory/Gitarre 
+121 14 27 Single Coil Pro  |Factory/Gitarre 
+121 1 9 Sistro  |Factory/Mallet & Bells 
+121 8 104 Sitar  |Factory/Welt 
+121 7 104 Sitar Sitar  |Legacy/Welt 
+121 2 104 Sitar Tambou  |Factory/Welt 
+121 2 90 Sky Watcher  |Legacy/Synth Flaeche 
+121 6 36 Slap Bass 1  |Legacy/Bass 
+121 6 37 Slap Bass 2  |Legacy/Bass 
+121 7 37 Slap Bass 3  |Legacy/Bass 
+121 4 36 SlapFingerBassRX  |Legacy/Bass 
+121 5 36 SlapPickedBassRX  |Legacy/Bass 
+121 10 52 Slow Choir  |Legacy/Streich. & Chor 
+121 3 40 Slow Violin  |Factory/Streich. & Chor 
+121 1 72 Small Orchestra  |Factory/Holzblaeser 
+121 2 20 Small Pipe  |Legacy/Orgel 
+121 7 65 Soft Alto Sax  |Factory/Sax 
+121 8 60 Soft Horns 1  |Factory/Blech 
+Ensemb. 
+121 7 60 Soft Horns 2  |Factory/Blech 
+Ensemb. 
+121 6 60 Soft Horns 3  |Factory/Blech 
+Ensemb. 
+121 5 26 Soft Jazz Guitar  |Factory/Gitarre 
+121 2 29 Soft Overdrive  |Legacy/Gitarre 
+121 2 66 Soft Tenor  |Legacy/Sax 
+121 22 57 Soft Trb. DN1  |Factory/Blech Solo 
+121 23 57 Soft Trb. DN2  |Factory/Blech Solo 
+121 16 57 Soft Trb. DNC  |Factory/Blech Solo 
+121 4 57 Soft Trombone  |Legacy/Blech Solo 
+121 13 4 Soft Wurly  |Legacy/E. Piano 
+121 24 65 SoftAltoSax DN1  |Factory/Sax 
+121 18 65 SoftLatinSax DNC  |Factory/Sax 
+121 21 27 Solid Guitar  |Factory/Gitarre 
+121 7 30 Solo Dist.Guitar  |Legacy/Gitarre 
+121 16 71 SoloClarinet DNC  |Factory/Holzblaeser 
+121 2 64 Soprano Pro  |Factory/Sax 
+121 6 64 Soprano Sax DN1  |Factory/Sax 
+121 5 64 Soprano Sax DNC  |Factory/Sax 
+121 6 53 SopranoChoirDNC  |Factory/Streich. & Chor 
+121 4 53 SopranoVox1 DNC  |Factory/Streich. & Chor 
+121 5 53 SopranoVox2 DNC  |Factory/Streich. & Chor 
+121 1 103 Space Trailer  |Factory/Synth Flaeche 
+121 6 24 Spanish Guitar  |Legacy/Gitarre 
+121 4 49 Spiccato Strings  |Factory/Streich. & Chor 
+121 7 87 Square Bass  |Legacy/Synth Solo 
+121 15 90 Square Pad  |Factory/Synth Flaeche 
+121 11 80 Square Rez  |Legacy/Synth Solo 
+121 31 33 SR Fing.Slap Bs  |Factory/Bass 
+121 27 33 SR Finger BsDN1  |Factory/Bass 
+121 28 33 SR Finger BsDN2  |Factory/Bass 
+121 16 34 SR Pick Bs DN1  |Factory/Bass 
+121 17 34 SR Pick Bs DN2  |Factory/Bass 
+121 9 36 SR Slap Bass  |Factory/Bass 
+121 5 25 Steel 12 Strings  |Factory/Gitarre 
+121 9 25 Steel Folk Gtr  |Legacy/Gitarre 
+121 44 25 Steel Gtr DNC  |Legacy/Gitarre 
+121 35 25 Steel Gtr RX  |Factory/Gitarre 
+121 4 25 Steel Guitar 1  |Factory/Gitarre 
+121 20 25 Steel Guitar 2  |Factory/Gitarre 
+121 15 25 Steel Guitar RX1  |Legacy/Gitarre 
+121 16 25 Steel Guitar RX2  |Legacy/Gitarre 
+121 13 25 Steel Slide Pro1  |Factory/Gitarre 
+121 14 25 Steel Slide Pro2  |Factory/Gitarre 
+121 19 25 SteelGtrPro DNC  |Factory/Gitarre 
+121 3 34 Stein Bass  |Legacy/Bass 
+121 25 21 Steirisch.Akk.1  |Factory/Akkordeon 
+121 26 21 Steirisch.Akk.2  |Factory/Akkordeon 
+121 27 21 Steirisch.Akk.3  |Factory/Akkordeon 
+121 28 21 Steirisch.Akk.4  |Factory/Akkordeon 
+121 7 96 Step Sequencer  |Factory/Synth Flaeche 
+121 6 5 Stereo Dig. EP  |Legacy/E. Piano 
+121 8 30 Stereo Dist.Gtr  |Factory/Gitarre 
+121 3 48 Stereo Strings  |Legacy/Streich. & Chor 
+121 5 33 Stick Bass  |Legacy/Bass 
+121 4 7 Sticky Clav  |Legacy/Piano 
+121 5 28 Stra. Chime  |Legacy/Gitarre 
+121 32 27 Stra. Gtr 1 DNC  |Factory/Gitarre 
+121 17 27 Stra. Gtr Slide  |Legacy/Gitarre 
+121 16 27 Stra. Vel. Pro  |Factory/Gitarre 
+121 33 27 Stra.GtrUpDwDNC  |Factory/Gitarre 
+121 12 49 StrappatoStrings  |Legacy/Streich. & Chor 
+121 45 27 Strat B DI DNC  |Factory/Gitarre 
+121 28 28 Strat B DI Mute  |Factory/Gitarre 
+121 5 29 Strat B Ovd DNC  |Factory/Gitarre 
+121 6 29 Strat B Ovd Mute  |Factory/Gitarre 
+121 38 27 Strat N Cln DNC  |Factory/Gitarre 
+121 22 28 Strat N Cln Mute  |Factory/Gitarre 
+121 39 27 Strat N DI DNC  |Factory/Gitarre 
+121 23 28 Strat N DI Mute  |Factory/Gitarre 
+121 18 48 Strings & Glock.  |Factory/Streich. & Chor 
+121 15 48 Strings & Horns  |Factory/Streich. & Chor 
+121 13 52 Strings Choir  |Legacy/Streich. & Chor 
+121 21 48 Strings Ens. 1  |Legacy/Streich. & Chor 
+121 3 49 Strings Ens. 2  |Legacy/Streich. & Chor 
+121 22 48 Strings Ens. 3  |Factory/Streich. & Chor 
+121 9 48 Strings Quartet  |Factory/Streich. & Chor 
+121 24 48 Strings&Orch.V.  |Factory/Streich. & Chor 
+121 33 25 Strum 12Str. DNC  |Factory/Gitarre 
+121 7 4 Studio EP  |Legacy/E. Piano 
+121 19 49 Studio Strings  |Factory/Streich. & Chor 
+121 15 80 Sub Harmonic  |Factory/Synth Solo 
+121 34 4 Suit Case88 EP1  |Factory/E. Piano 
+121 33 4 Suit Case88 EP2  |Factory/E. Piano 
+121 20 4 Suit E.Piano 1  |Factory/E. Piano 
+121 21 4 Suit E.Piano 2  |Factory/E. Piano 
+121 13 81 Summit Pulse  |Factory/Synth Solo 
+121 2 36 Super Bass 1  |Factory/Bass 
+121 1 36 Super Bass 2  |Factory/Bass 
+121 6 18 Super BX Perc.  |Legacy/Orgel 
+121 4 90 Super Sweep  |Factory/Synth Flaeche 
+121 1 49 Sweeper Strings  |Legacy/Streich. & Chor 
+121 12 5 Sweeping EP  |Legacy/E. Piano 
+121 5 65 Sweet Alto Sax 1  |Factory/Sax 
+121 6 65 Sweet Alto Sax 2  |Factory/Sax 
+121 12 56 Sweet FlugelHorn  |Factory/Blech Solo 
+121 3 35 Sweet Fretless  |Factory/Bass 
+121 7 22 Sweet Harm. DNC  |Factory/Akkordeon 
+121 1 22 Sweet Harmonica  |Legacy/Akkordeon 
+121 11 21 Sweet Musette  |Factory/Akkordeon 
+121 12 53 Sweet Sopr. Halo  |Factory/Streich. & Chor 
+121 7 53 Sweet Sopr. Solo  |Factory/Streich. & Chor 
+121 3 64 Sweet Soprano 1  |Factory/Sax 
+121 4 64 Sweet Soprano 2  |Factory/Sax 
+121 1 64 Sweet Soprano 3  |Factory/Sax 
+121 40 61 Swing Horns DNC  |Factory/Blech Ensemb. 
+121 10 48 Symphonic Bows  |Factory/Streich. & Chor 
+121 14 89 Symphonic Ens.  |Factory/Synth Flaeche 
+121 8 38 Syn Bass Reso.  |Legacy/Bass 
+121 5 5 Syn Piano X  |Legacy/E. Piano 
+121 3 84 Sync Kron  |Legacy/Synth Solo 
+121 2 84 Synchro City  |Legacy/Synth Solo 
+121 18 38 Synth Bass 1  |Factory/Bass 
+121 15 39 Synth Bass 2  |Factory/Bass 
+121 9 39 Synth Bass 80ish  |Legacy/Bass 
+121 5 62 Synth Brass 1  |Factory/Blech Ensemb. 
+121 5 63 Synth Brass 2  |Legacy/Blech Ensemb. 
+121 6 7 Synth Clav  |Factory/Piano 
+121 2 100 Synth Ghostly  |Legacy/Synth Flaeche 
+121 12 81 Synth Pianoid  |Factory/Synth Solo 
+121 6 50 Synth Strings 1  |Legacy/Streich. & Chor 
+121 1 51 Synth Strings 2  |Legacy/Streich. & Chor 
+121 3 90 Synth Sweeper  |Legacy/Synth Solo 
+121 6 54 Synth Voices  |Legacy/Streich. & Chor 
+121 4 52 Take Voices 1  |Legacy/Streich. & Chor 
+121 5 52 Take Voices 2  |Legacy/Streich. & Chor 
+121 6 104 Tambra  |Legacy/Welt 
+121 10 23 Tango Accordion  |Factory/Akkordeon 
+121 6 17 Techno Org.Bass  |Legacy/Orgel 
+121 3 93 Techno Stab DNC  |Factory/Synth Flaeche 
+121 10 90 Tecno Phonic  |Legacy/Synth Solo 
+121 27 27 Tel. Bridge  |Legacy/Gitarre 
+121 26 27 Tel. Midddle  |Legacy/Gitarre 
+121 40 27 Tele M Cln DNC  |Factory/Gitarre 
+121 24 28 Tele M Cln Mute  |Factory/Gitarre 
+121 41 27 Tele M DI DNC  |Factory/Gitarre 
+121 25 28 Tele M DI Mute  |Factory/Gitarre 
+121 4 66 Tenor Growl  |Legacy/Sax 
+121 18 66 Tenor Growl DN1  |Factory/Sax 
+121 12 66 Tenor Sax 1 DNC  |Factory/Sax 
+121 13 66 Tenor Sax 2 DNC  |Factory/Sax 
+121 14 66 Tenor Sax 3 DNC  |Factory/Sax 
+121 15 66 Tenor Sax 4 DNC  |Factory/Sax 
+121 16 66 Tenor Sax DN1  |Factory/Sax 
+121 17 66 Tenor Sax DN2  |Factory/Sax 
+121 7 66 Tenor Sax Expr.1  |Factory/Sax 
+121 8 66 Tenor Sax Expr.2  |Factory/Sax 
+121 1 66 Tenor Sax Noise1  |Factory/Sax 
+121 6 66 Tenor Sax Noise2  |Factory/Sax 
+121 8 97 Tension Scene  |Factory/Synth Flaeche 
+121 5 37 The Other Slap  |Factory/Bass 
+121 4 89 The Pad  |Factory/Synth Flaeche 
+121 22 16 Theatre Organ 1  |Factory/Orgel 
+121 23 16 Theatre Organ 2  |Factory/Orgel 
+121 24 16 Theatre Organ 3  |Legacy/Orgel 
+121 25 16 Theatre Organ 4  |Legacy/Orgel 
+121 4 87 Thin Analog Lead  |Factory/Synth Solo 
+121 9 4 Thin E. Piano  |Legacy/E. Piano 
+121 1 37 Thumb Bass  |Factory/Bass 
+121 26 16 Tibia  |Legacy/Orgel 
+121 31 16 Tibia & Kinura  |Legacy/Orgel 
+121 28 16 Tibia & Vox  |Legacy/Orgel 
+121 27 16 Tibia 16+8+4’  |Legacy/Orgel 
+121 32 16 Tibia Vox Glock  |Legacy/Orgel 
+121 9 34 Ticktacing Bass  |Legacy/Bass 
+121 27 61 Tight Brass 1  |Factory/Blech Ensemb. 
+121 29 61 Tight Brass 2  |Factory/Blech Ensemb. 
+121 2 61 Tight Brass 3  |Factory/Blech Ensemb. 
+121 12 61 Tight Brass 4  |Factory/Blech Ensemb. 
+121 28 61 Tight Brass Pro  |Factory/Blech Ensemb. 
+121 18 4 Tine E. Piano 1  |Factory/E. Piano 
+121 19 4 Tine E. Piano 2  |Factory/E. Piano 
+121 29 4 Tine EP Amp/Pha  |Factory/E. Piano 
+121 28 4 Tine EP Dyno  |Factory/E. Piano 
+121 27 4 Tine EP Phaser  |Factory/E. Piano 
+121 3 97 Tinklin Pad  |Factory/Synth Flaeche 
+121 16 87 Trance Filter  |Legacy/Synth Solo 
+121 17 57 Trb. Expr. DNC  |Factory/Blech Solo 
+121 1 44 Tremolo Strings  |Factory/Streich. & Chor 
+121 16 4 Tremolo Wurly  |Factory/E. Piano 
+121 12 57 Trombone  |Legacy/Blech Solo 
+121 13 57 Trombone DNC  |Factory/Blech Solo 
+121 6 57 Trombone Expr. 1  |Factory/Blech Solo 
+121 7 57 Trombone Expr. 2  |Factory/Blech Solo 
+121 11 57 Trombone Pro Vel  |Factory/Blech Solo 
+121 8 57 Trombone Vel. 1  |Factory/Blech Solo 
+121 9 57 Trombone Vel. 2  |Factory/Blech Solo 
+121 10 57 Trombone Vel. 3  |Factory/Blech Solo 
+121 11 61 Trombones  |Factory/Blech 
+Ensemb. 
+121 10 61 Trombones DNC  |Factory/Blech 
+Ensemb. 
+121 5 60 Trpt. & Horns  |Factory/Blech Ensemb. 
+121 7 61 Trpts & Brass  |Factory/Blech Ensemb. 
+121 34 61 Trpts & Trombs  |Factory/Blech Ensemb. 
+121 14 56 Trumpet  |Factory/Blech Solo 
+121 9 61 Trumpet Ens.  |Factory/Blech Ensemb. 
+121 35 61 Trumpet Ens1 Y+  |Legacy/Blech Ensemb. 
+121 36 61 Trumpet Ens2 Y+  |Factory/Blech Ensemb. 
+121 15 56 Trumpet Expr.1  |Factory/Blech Solo 
+121 4 56 Trumpet Expr.2  |Factory/Blech Solo 
+121 26 56 Trumpet Expr.DNC  |Factory/Blech Solo 
+121 2 56 Trumpet Overb.  |Factory/Blech Solo 
+121 5 56 Trumpet Pitch  |Factory/Blech Solo 
+121 10 56 Trumpet Pro 1  |Factory/Blech Solo 
+121 11 56 Trumpet Pro 2  |Factory/Blech Solo 
+121 16 56 Trumpet Pro 3  |Factory/Blech Solo 
+121 42 61 Trumpets DNC  |Factory/Blech Ensemb. 
+121 44 61 TrumpetsCup Mute  |Factory/Blech Ensemb. 
+121 18 56 TrumpetShake Y+  |Factory/Blech Solo 
+121 43 61 TrumpetsHar Mute  |Factory/Blech Ensemb. 
+121 6 91 Tsunami Wave  |Factory/Synth Flaeche 
+121 2 58 Tuba Gold  |Factory/Blech Solo 
+121 4 14 Tubular Bell  |Factory/Mallet & Bells 
+121 2 109 Uillean BagPipes  |Factory/Welt 
+121 26 24 Ukulele Gtr  |Factory/Welt 
+121 10 53 Unknown Choir  |Factory/Streich. &
+Chor
+121 11 53 Unknown Ens.  |Factory/Streich. &
+Chor
+121 15 0 Upright Piano  |Factory/Piano 
+121 3 101 VCF Modulation  |Factory/Synth Solo 
+121 15 4 Velo Wurly  |Legacy/E. Piano 
+121 2 11 Vibraphone 1  |Factory/Mallet & Bells 
+121 3 11 Vibraphone 2  |Legacy/Mallet & Bells 
+121 4 4 Vintage EP  |Legacy/E. Piano 
+121 17 87 Vintage Monster  |Legacy/Synth Solo 
+121 23 33 Vintage P. Bass  |Factory/Bass 
+121 18 33 Vintage P. Flat  |Factory/Bass 
+121 12 34 Vintage P. Pick  |Factory/Bass 
+121 17 33 Vintage P.Round  |Factory/Bass 
+121 11 89 Vintage Pad  |Legacy/Synth Flaeche 
+121 19 27 Vintage S. 1  |Factory/Gitarre 
+121 4 27 Vintage S. 2  |Legacy/Gitarre 
+121 7 95 Vintage Sweep  |Factory/Synth Flaeche 
+121 1 41 Viola Expr.  |Factory/Streich. & Chor 
+121 45 25 ViolaCaipira DNC  |Factory/Gitarre 
+121 2 41 Violin & Viola  |Factory/Streich. &
+Chor 
+121 10 40 Violin DN2  |Factory/Streich. &
+Chor
+121 9 40 Violin DNC  |Factory/Streich. &
+Chor 
+121 8 40 Violin Expr. 1  |Factory/Streich. & Chor 
+121 2 40 Violin Expr. 2  |Factory/Streich. & Chor 
+121 4 40 Violin Expr. 3  |Factory/Streich. & Chor 
+121 11 40 Violin Expr. DN2 |Factory/Streich. & Chor 
+121 5 40 Violin Expr. DNC |Factory/Streich. & Chor 
+121 1 88 Virtual Traveler |Factory/Synth Flaeche 
+121 2 54 Vocalesque  |Legacy/Streich. & Chor 
+121 3 54 Vocalscape  |Legacy/Streich. & Chor 
+121 11 16 VOX Legend  |Legacy/Orgel 
+121 3 120 Vox Wah Chick  |Legacy/Gitarre 
+121 18 5 VPM Tine 1  |Factory/E. Piano 
+121 19 5 VPM Tine 2  |Factory/E. Piano 
+121 17 5 VPM Tine 3  |Factory/E. Piano 
+121 2 98 Vs Bell Boy  |Factory/Mallet & Bells 
+121 2 59 Wah Trumpet  |Factory/Blech Solo 
+121 1 109 War Pipes  |Legacy/Welt 
+121 17 89 Warm Buzz  |Factory/Synth Flaeche 
+121 8 56 Warm Flugel  |Legacy/Blech Solo 
+121 10 0 Warm Grand  |Factory/Piano 
+121 15 89 Warm Pad  |Factory/Synth Flaeche 
+121 1 114 Warm Steel  |Factory/Mallet & Bells 
+121 3 96 Wave Cycle  |Factory/Synth Flaeche 
+121 5 80 Wave Lead  |Factory/Synth Solo 
+121 5 90 Wave Sweep  |Factory/Synth Flaeche 
+121 4 96 Wave-Sequence  |Factory/Synth Flaeche 
+121 6 30 Wet Dist.Guitar |Legacy/Gitarre 
+121 31 4 Wet Tine EP  |Factory/E. Piano 
+121 3 78 Whistle 1  |Factory/Holzblaeser 
+121 4 78 Whistle 2  |Factory/Holzblaeser 
+121 1 78 Whistle 3  |Factory/Holzblaeser 
+121 6 78 Whistle DN1  |Factory/Holzblaeser 
+121 5 78 Whistle DNC  |Factory/Holzblaeser 
+121 13 5 White Pad EP  |Factory/E. Piano 
+121 10 99 Wide Attack  |Legacy/Synth Flaeche 
+121 6 55 Wild Arp  |Legacy/Synth Solo 
+121 19 38 Willy FM Bass  |Legacy/Bass 
+121 7 73 Wooden Flute  |Legacy/Holzblaeser 
+121 6 71 Woodwinds  |Factory/Holzblaeser 
+121 9 35 Woofer Pusher 1 |Factory/Bass 
+121 6 35 Woofer Pusher 2 |Legacy/Bass 
+121 12 17 Wunder Organ  |Factory/Orgel 
+121 38 4 Wurly Amp  |Factory/E. Piano 
+121 40 4 Wurly Amp/Comp  |Factory/E. Piano 
+121 39 4 Wurly Clean 1  |Factory/E. Piano 
+121 41 4 Wurly Clean 2  |Factory/E. Piano 
+121 36 4 Wurly Logic  |Factory/E. Piano 
+121 42 4 Wurly Noise  |Factory/E. Piano 
+121 8 52 Wuuh Choir  |Legacy/Streich. & Chor 
+121 1 13 Xylophone  |Factory/Mallet & Bells 
+121 8 95 You Decide  |Legacy/Synth Flaeche 
+121 9 104 Zither   |Factory/Welt 
+121 3 111 Zurna 1  |Factory/Welt 
+121 1 111 Zurna 2  |Factory/Welt 
+
+120 0 0 Std. Kit1
+120 0 1 Std. Kit2
+120 0 2 Std. Kit3
+120 0 3 AcousticKit
+120 0 4 Std. Kit4
+120 0 5 Std. Kit1
+120 0 6 Std. Kit1
+120 0 7 Std. Kit1
+120 0 8 Room Kit1
+120 0 9 HipHop Kit1
+120 0 10 Jungle Kit
+120 0 11 Techno Kit1
+120 0 12 Room Kit2
+120 0 13 HipHop Kit2
+120 0 14 Techno Kit2
+120 0 15 Techno Kit3
+120 0 16 Power Kit1
+120 0 17 Power Kit2
+120 0 18 Power Kit1
+120 0 19 Power Kit1
+120 0 20 Power Kit1
+120 0 21 Power Kit1
+120 0 22 Power Kit1
+120 0 23 Power Kit1
+120 0 24 Electro Kit
+120 0 25 Analog Kit
+120 0 26 House Kit1
+120 0 27 House Kit2
+120 0 28 House Kit3
+120 0 29 House Kit4
+120 0 30 Electro Kit
+120 0 31 Electro Kit
+120 0 32 Jazz Kit
+120 0 33 Jazz Kit
+120 0 34 Jazz Kit
+120 0 35 Jazz Kit
+120 0 36 Jazz Kit
+120 0 37 Jazz Kit
+120 0 38 Jazz Kit
+120 0 39 Jazz Kit
+120 0 40 Brush Kit1
+120 0 41 Brush V.S.2
+120 0 42 Brush Kit1
+120 0 43 Brush Kit1
+120 0 44 Brush Kit1
+120 0 45 Brush Kit1
+120 0 46 Brush Kit1
+120 0 47 Brush Kit1
+120 0 48 OrchestraK.
+120 0 49 OrchestraK.
+120 0 50 Bdrum&Sdrum
+120 0 51 Arabian Kit 1
+120 0 52 OrchestraK.
+120 0 53 OrchestraK.
+120 0 54 OrchestraK.
+120 0 55 OrchestraK.
+120 0 56 SFX Kit
+120 0 57 SFX Kit
+120 0 58 SFX Kit
+120 0 59 SFX Kit
+120 0 60 SFX Kit
+120 0 61 SFX Kit
+120 0 62 SFX Kit
+120 0 63 SFX Kit
+120 0 64 Percus.Kit1
+120 0 65 Latin P.Kit
+120 0 66 TRI-Per.KIT
+120 0 67 i30 Perc.Kit
+120 0 68 Percus.Kit1
+120 0 69 Percus.Kit1
+120 0 70 Percus.Kit1
+120 0 71 Percus.Kit1
+120 0 72 Std. Kit1
+120 0 73 Std. Kit1
+120 0 74 Std. Kit1
+120 0 75 Std. Kit1
+120 0 76 Std. Kit1
+120 0 77 Std. Kit1
+120 0 78 Std. Kit1
+120 0 79 Std. Kit1
+120 0 80 Std. Kit1
+120 0 81 Std. Kit1
+120 0 82 Std. Kit1
+120 0 83 Std. Kit1
+120 0 84 Std. Kit1
+120 0 85 Std. Kit1
+120 0 86 Std. Kit1
+120 0 87 Std. Kit1
+120 0 88 Std. Kit1
+120 0 89 Std. Kit1
+120 0 90 Std. Kit1
+120 0 91 Std. Kit1
+120 0 92 Std. Kit1
+120 0 93 Std. Kit1
+120 0 94 Std. Kit1
+120 0 95 Std. Kit1
+120 0 96 Std. Kit1
+120 0 97 Std. Kit1
+120 0 98 Std. Kit1
+120 0 99 Std. Kit1
+120 0 101 Std. Kit1
+120 0 102 Std. Kit1
+120 0 103 Std. Kit1
+120 0 104 Std. Kit1
+120 0 105 Std. Kit1
+120 0 106 Std. Kit1
+120 0 107 Std. Kit1
+120 0 108 Std. Kit1
+120 0 109 Std. Kit1
+120 0 110 Std. Kit1
+120 0 111 Std. Kit1
+120 0 112 Std. Kit1
+120 0 113 Std. Kit1
+120 0 114 Std. Kit1
+120 0 115 Std. Kit1
+120 0 116 Arabian Kit 1
+120 0 117 Arabian Kit 2
+120 0 118 Std. Kit1
+120 0 119 Std. Kit1
+120 0 120 Std. Kit1
+120 0 121 Std. Kit1
+120 0 122 Std. Kit1
+120 0 123 Std. Kit1
+120 0 124 Std. Kit1
+120 0 125 Std. Kit1
+120 0 126 Std. Kit1
+120 0 127 Std. Kit1

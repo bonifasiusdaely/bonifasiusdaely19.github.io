@@ -1,0 +1,58 @@
+// Name of Model
+Name: Standard 49 Key
+
+// Key: Count, Start, Chord (0 for no change)
+// Start and Chord are Zero based
+Key: 49, 48, 17
+
+// Skin of this Model (null for default)
+// only Android/iOS version
+Skin:
+
+// Commnad: Index
+//   KeyboardSet: 0..12 (0 is My Setting)
+//   Instrument: 1...
+//   Style: 1...
+//   System: 1...
+//   SoundLoop: 1..12
+//   SoundLoopStop: -
+//   StyleSTARTSTOP: -
+//   StyleButtons: 1..15
+//   PadButtons: 1..4
+//   Track: 1..4
+//   DNC: 1..3
+//   MiniKeyboard 1..12
+//   Tab: -
+//   Metronome: -
+//   SplitMix: -
+//   AutoFill: -
+//   FadeInOut: -
+//   ChordMemory: -
+//   ChordScan: -
+//   SynchroStartStop: -
+//   TapTempoReset: -
+//   DrumChord: -
+//   StyleToKeyboardSet: -
+//   FX: 1..3
+//   Tempo: 1..2
+//   TempoLock: -
+//   Octave: 1..2
+//   Transpose: 1..2
+//   DragShake: 1..2
+
+// Event (Program, Control)
+// Channel (0..15, -1 for any number)
+
+// Operation List
+// Command: Index = Event: Channel, Value1 [, Value2]
+//--------------------------------------------------
+Instrument: 1 = Program: -1, 0
+Instrument: 2 = Program: -1, 1
+Instrument: 3 = Program: -1, 2
+Instrument: 4 = Program: -1, 3
+Instrument: 5 = Program: -1, 4
+Instrument: 6 = Program: -1, 5
+Instrument: 7 = Program: -1, 6
+Instrument: 8 = Program: -1, 7
+Instrument: 9 = Program: -1, 8
+Instrument: 10 = Program: -1, 9
